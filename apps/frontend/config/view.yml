@@ -1,0 +1,43 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/13-View
+default:
+  http_metas:
+    content-type: text/html
+
+  metas:
+    title:        Miel y Canela
+    #description:  symfony project
+    #keywords:     symfony, project
+    #language:     en
+    #robots:       index, follow
+
+  stylesheets:    
+                  - style.css
+                  - style-ie.css: { condition: IE 6 }
+
+  javascripts:    
+                  - jquery-1.2.6.min.js
+                  - jquery.cluetip.js
+                  - jquery.dimensions.pack.js
+                  - init.js
+
+  has_layout:     true
+  layout:         layout
+  
+indexSuccess:
+  
+  http_metas:
+    content-type: text/html
+
+  metas:
+    title:        Miel y Canela
+    #description:  symfony project
+    #keywords:     symfony, project
+    #language:     en
+    #robots:       index, follow
+  stylesheets:    [ -*, base.css ]
+  
+  javascripts:    [-*]
+      
+  has_layout:     true
+  layout:         base

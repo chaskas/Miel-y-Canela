@@ -1,0 +1,577 @@
+Sep 28 02:17:58 symfony [info] {sfPatternRouting} Match route "promociones" (/promociones) for /promociones with parameters array (  'module' => 'static',  'action' => 'promociones',)
+Sep 28 02:17:58 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 02:17:58 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 02:17:58 symfony [info] {staticActions} Call "staticActions->executePromociones()"
+Sep 28 02:17:58 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/modules/static/templates/promocionesSuccess.php"
+Sep 28 02:17:58 symfony [info] {sfPHPView} Decorate content with "/media/D/www/mielycanelacl/apps/frontend/templates/layout.php"
+Sep 28 02:17:58 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/templates/layout.php"
+Sep 28 02:17:58 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 28 02:17:58 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:17:58 symfony [info] {sfWebDebugLogger} Configuration 104.21 ms (9)
+Sep 28 02:17:58 symfony [info] {sfWebDebugLogger} Factories 216.13 ms (1)
+Sep 28 02:17:58 symfony [info] {sfWebDebugLogger} Action "static/promociones" 0.17 ms (1)
+Sep 28 02:17:58 symfony [info] {sfWebDebugLogger} View "Success" for "static/promociones" 11.82 ms (1)
+Sep 28 02:17:58 symfony [info] {sfWebResponse} Send content (30843 o)
+Sep 28 02:18:09 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'static',  'action' => 'index',)
+Sep 28 02:18:09 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 02:18:09 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 02:18:09 symfony [info] {staticActions} Call "staticActions->executeIndex()"
+Sep 28 02:18:09 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/modules/static/templates/indexSuccess.php"
+Sep 28 02:18:09 symfony [info] {sfPHPView} Decorate content with "/media/D/www/mielycanelacl/apps/frontend/templates/layout.php"
+Sep 28 02:18:09 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/templates/layout.php"
+Sep 28 02:18:09 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 28 02:18:09 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:18:09 symfony [info] {sfWebDebugLogger} Configuration 3.52 ms (9)
+Sep 28 02:18:09 symfony [info] {sfWebDebugLogger} Factories 17.12 ms (1)
+Sep 28 02:18:09 symfony [info] {sfWebDebugLogger} Action "static/index" 0.16 ms (1)
+Sep 28 02:18:09 symfony [info] {sfWebDebugLogger} View "Success" for "static/index" 6.35 ms (1)
+Sep 28 02:18:09 symfony [info] {sfWebResponse} Send content (32407 o)
+Sep 28 02:18:09 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/images/ref.jpg" (/).
+Sep 28 02:18:09 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:18:09 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:18:09 symfony [info] {sfWebDebugLogger} Configuration 5.49 ms (5)
+Sep 28 02:18:09 symfony [info] {sfWebDebugLogger} Factories 14.53 ms (1)
+Sep 28 02:18:12 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /static/nosotros with parameters array (  'module' => 'static',  'action' => 'nosotros',)
+Sep 28 02:18:12 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 02:18:12 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 02:18:12 symfony [info] {staticActions} Call "staticActions->executeNosotros()"
+Sep 28 02:18:12 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/modules/static/templates/nosotrosSuccess.php"
+Sep 28 02:18:12 symfony [info] {sfPHPView} Decorate content with "/media/D/www/mielycanelacl/apps/frontend/templates/layout.php"
+Sep 28 02:18:12 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/templates/layout.php"
+Sep 28 02:18:12 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 28 02:18:12 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:18:12 symfony [info] {sfWebDebugLogger} Configuration 3.47 ms (9)
+Sep 28 02:18:12 symfony [info] {sfWebDebugLogger} Factories 15.12 ms (1)
+Sep 28 02:18:12 symfony [info] {sfWebDebugLogger} Action "static/nosotros" 0.15 ms (1)
+Sep 28 02:18:12 symfony [info] {sfWebDebugLogger} View "Success" for "static/nosotros" 7.43 ms (1)
+Sep 28 02:18:12 symfony [info] {sfWebResponse} Send content (39414 o)
+Sep 28 02:18:18 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /static/productos with parameters array (  'module' => 'static',  'action' => 'productos',)
+Sep 28 02:18:18 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 02:18:18 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 02:18:18 symfony [info] {staticActions} Call "staticActions->executeProductos()"
+Sep 28 02:18:18 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/modules/static/templates/productosSuccess.php"
+Sep 28 02:18:18 symfony [info] {sfPHPView} Decorate content with "/media/D/www/mielycanelacl/apps/frontend/templates/layout.php"
+Sep 28 02:18:18 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/templates/layout.php"
+Sep 28 02:18:18 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 28 02:18:18 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:18:18 symfony [info] {sfWebDebugLogger} Configuration 3.27 ms (9)
+Sep 28 02:18:18 symfony [info] {sfWebDebugLogger} Factories 14.36 ms (1)
+Sep 28 02:18:18 symfony [info] {sfWebDebugLogger} Action "static/productos" 0.22 ms (1)
+Sep 28 02:18:18 symfony [info] {sfWebDebugLogger} View "Success" for "static/productos" 6.70 ms (1)
+Sep 28 02:18:18 symfony [info] {sfWebResponse} Send content (30916 o)
+Sep 28 02:18:20 symfony [info] {sfPatternRouting} Match route "promociones" (/promociones) for /promociones with parameters array (  'module' => 'static',  'action' => 'promociones',)
+Sep 28 02:18:20 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 02:18:20 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 02:18:20 symfony [info] {staticActions} Call "staticActions->executePromociones()"
+Sep 28 02:18:20 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/modules/static/templates/promocionesSuccess.php"
+Sep 28 02:18:20 symfony [info] {sfPHPView} Decorate content with "/media/D/www/mielycanelacl/apps/frontend/templates/layout.php"
+Sep 28 02:18:20 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/templates/layout.php"
+Sep 28 02:18:20 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 28 02:18:20 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:18:20 symfony [info] {sfWebDebugLogger} Configuration 3.72 ms (9)
+Sep 28 02:18:20 symfony [info] {sfWebDebugLogger} Factories 15.73 ms (1)
+Sep 28 02:18:20 symfony [info] {sfWebDebugLogger} Action "static/promociones" 0.14 ms (1)
+Sep 28 02:18:20 symfony [info] {sfWebDebugLogger} View "Success" for "static/promociones" 6.89 ms (1)
+Sep 28 02:18:20 symfony [info] {sfWebResponse} Send content (30901 o)
+Sep 28 02:18:26 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'static',  'action' => 'index',)
+Sep 28 02:18:26 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 02:18:26 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 02:18:26 symfony [info] {staticActions} Call "staticActions->executeIndex()"
+Sep 28 02:18:26 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/modules/static/templates/indexSuccess.php"
+Sep 28 02:18:26 symfony [info] {sfPHPView} Decorate content with "/media/D/www/mielycanelacl/apps/frontend/templates/layout.php"
+Sep 28 02:18:26 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/templates/layout.php"
+Sep 28 02:18:26 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 28 02:18:26 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:18:26 symfony [info] {sfWebDebugLogger} Configuration 7.92 ms (9)
+Sep 28 02:18:26 symfony [info] {sfWebDebugLogger} Factories 18.67 ms (1)
+Sep 28 02:18:26 symfony [info] {sfWebDebugLogger} Action "static/index" 0.20 ms (1)
+Sep 28 02:18:26 symfony [info] {sfWebDebugLogger} View "Success" for "static/index" 6.76 ms (1)
+Sep 28 02:18:26 symfony [info] {sfWebResponse} Send content (32408 o)
+Sep 28 02:18:26 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/images/ref.jpg" (/).
+Sep 28 02:18:26 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:18:26 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:18:26 symfony [info] {sfWebDebugLogger} Configuration 2.72 ms (5)
+Sep 28 02:18:26 symfony [info] {sfWebDebugLogger} Factories 9.94 ms (1)
+Sep 28 02:18:26 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/images/ref.jpg" (/).
+Sep 28 02:18:26 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:18:26 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:18:26 symfony [info] {sfWebDebugLogger} Configuration 1.97 ms (5)
+Sep 28 02:18:26 symfony [info] {sfWebDebugLogger} Factories 10.59 ms (1)
+Sep 28 02:29:53 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'static',  'action' => 'index',)
+Sep 28 02:29:53 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 02:29:53 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 02:29:53 symfony [info] {staticActions} Call "staticActions->executeIndex()"
+Sep 28 02:29:53 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/modules/static/templates/indexSuccess.php"
+Sep 28 02:29:53 symfony [info] {sfPHPView} Decorate content with "/index.php"
+Sep 28 02:29:53 symfony [err] {sfRenderException} The decorator template "index.php" does not exist or is unreadable in "".
+Sep 28 02:29:53 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Sep 28 02:29:53 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:29:53 symfony [info] {sfWebDebugLogger} Configuration 93.54 ms (9)
+Sep 28 02:29:53 symfony [info] {sfWebDebugLogger} Factories 54.74 ms (1)
+Sep 28 02:29:53 symfony [info] {sfWebDebugLogger} Action "static/index" 0.14 ms (1)
+Sep 28 02:29:53 symfony [info] {sfWebDebugLogger} View "Success" for "static/index" 40.38 ms (1)
+Sep 28 02:31:41 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'static',  'action' => 'index',)
+Sep 28 02:31:41 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 02:31:41 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 02:31:41 symfony [info] {staticActions} Call "staticActions->executeIndex()"
+Sep 28 02:31:41 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/modules/static/templates/indexSuccess.php"
+Sep 28 02:31:41 symfony [info] {sfPHPView} Decorate content with "/media/D/www/mielycanelacl/apps/frontend/templates/index.php"
+Sep 28 02:31:41 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/templates/index.php"
+Sep 28 02:31:41 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 28 02:31:41 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:31:41 symfony [info] {sfWebDebugLogger} Configuration 6.89 ms (9)
+Sep 28 02:31:41 symfony [info] {sfWebDebugLogger} Factories 15.55 ms (1)
+Sep 28 02:31:41 symfony [info] {sfWebDebugLogger} Action "static/index" 0.14 ms (1)
+Sep 28 02:31:41 symfony [info] {sfWebDebugLogger} View "Success" for "static/index" 6.97 ms (1)
+Sep 28 02:31:41 symfony [info] {sfWebResponse} Send content (29655 o)
+Sep 28 02:31:42 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/tex.swf" (/).
+Sep 28 02:31:42 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:31:42 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:31:42 symfony [info] {sfWebDebugLogger} Configuration 2.99 ms (5)
+Sep 28 02:31:42 symfony [info] {sfWebDebugLogger} Factories 18.35 ms (1)
+Sep 28 02:31:42 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/index.swf" (/).
+Sep 28 02:31:42 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:31:42 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:31:42 symfony [info] {sfWebDebugLogger} Configuration 3.13 ms (5)
+Sep 28 02:31:42 symfony [info] {sfWebDebugLogger} Factories 50.83 ms (1)
+Sep 28 02:31:49 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'static',  'action' => 'index',)
+Sep 28 02:31:49 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 02:31:49 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 02:31:49 symfony [info] {staticActions} Call "staticActions->executeIndex()"
+Sep 28 02:31:49 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/modules/static/templates/indexSuccess.php"
+Sep 28 02:31:49 symfony [info] {sfPHPView} Decorate content with "/media/D/www/mielycanelacl/apps/frontend/templates/index.php"
+Sep 28 02:31:49 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/templates/index.php"
+Sep 28 02:31:49 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 28 02:31:49 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:31:49 symfony [info] {sfWebDebugLogger} Configuration 10.18 ms (9)
+Sep 28 02:31:49 symfony [info] {sfWebDebugLogger} Factories 25.32 ms (1)
+Sep 28 02:31:49 symfony [info] {sfWebDebugLogger} Action "static/index" 0.23 ms (1)
+Sep 28 02:31:49 symfony [info] {sfWebDebugLogger} View "Success" for "static/index" 8.00 ms (1)
+Sep 28 02:31:49 symfony [info] {sfWebResponse} Send content (29656 o)
+Sep 28 02:31:49 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/index.swf" (/).
+Sep 28 02:31:49 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:31:49 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:31:49 symfony [info] {sfWebDebugLogger} Configuration 3.13 ms (5)
+Sep 28 02:31:49 symfony [info] {sfWebDebugLogger} Factories 16.82 ms (1)
+Sep 28 02:31:49 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/tex.swf" (/).
+Sep 28 02:31:49 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:31:49 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:31:49 symfony [info] {sfWebDebugLogger} Configuration 2.62 ms (5)
+Sep 28 02:31:49 symfony [info] {sfWebDebugLogger} Factories 51.30 ms (1)
+Sep 28 02:31:53 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'static',  'action' => 'index',)
+Sep 28 02:31:53 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 02:31:53 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 02:31:53 symfony [info] {staticActions} Call "staticActions->executeIndex()"
+Sep 28 02:31:53 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/modules/static/templates/indexSuccess.php"
+Sep 28 02:31:53 symfony [info] {sfPHPView} Decorate content with "/media/D/www/mielycanelacl/apps/frontend/templates/index.php"
+Sep 28 02:31:53 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/templates/index.php"
+Sep 28 02:31:53 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 28 02:31:53 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:31:53 symfony [info] {sfWebDebugLogger} Configuration 130.05 ms (9)
+Sep 28 02:31:53 symfony [info] {sfWebDebugLogger} Factories 86.06 ms (1)
+Sep 28 02:31:53 symfony [info] {sfWebDebugLogger} Action "static/index" 0.15 ms (1)
+Sep 28 02:31:53 symfony [info] {sfWebDebugLogger} View "Success" for "static/index" 14.13 ms (1)
+Sep 28 02:31:53 symfony [info] {sfWebResponse} Send content (29658 o)
+Sep 28 02:31:53 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/index.swf" (/).
+Sep 28 02:31:53 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:31:53 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:31:53 symfony [info] {sfWebDebugLogger} Configuration 1.85 ms (5)
+Sep 28 02:31:53 symfony [info] {sfWebDebugLogger} Factories 10.12 ms (1)
+Sep 28 02:31:53 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/tex.swf" (/).
+Sep 28 02:31:53 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:31:53 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:31:53 symfony [info] {sfWebDebugLogger} Configuration 1.80 ms (5)
+Sep 28 02:31:53 symfony [info] {sfWebDebugLogger} Factories 12.07 ms (1)
+Sep 28 02:32:08 symfony [info] {sfPatternRouting} Match route "home" (/home) for /home with parameters array (  'module' => 'static',  'action' => 'home',)
+Sep 28 02:32:08 symfony [info] {sfFrontWebController} Action "static/home" does not exist
+Sep 28 02:32:08 symfony [err] {sfError404Exception} Action "static/home" does not exist.
+Sep 28 02:32:08 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:32:08 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:32:08 symfony [info] {sfWebDebugLogger} Configuration 1.89 ms (5)
+Sep 28 02:32:08 symfony [info] {sfWebDebugLogger} Factories 12.39 ms (1)
+Sep 28 02:32:28 symfony [info] {sfPatternRouting} Match route "home" (/home) for /home with parameters array (  'module' => 'static',  'action' => 'home',)
+Sep 28 02:32:28 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 02:32:28 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 02:32:28 symfony [info] {staticActions} Call "staticActions->executeHome()"
+Sep 28 02:32:28 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/modules/static/templates/homeSuccess.php"
+Sep 28 02:32:28 symfony [info] {sfPHPView} Decorate content with "/media/D/www/mielycanelacl/apps/frontend/templates/layout.php"
+Sep 28 02:32:28 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/templates/layout.php"
+Sep 28 02:32:28 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 28 02:32:28 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:32:28 symfony [info] {sfWebDebugLogger} Configuration 99.13 ms (9)
+Sep 28 02:32:28 symfony [info] {sfWebDebugLogger} Factories 56.96 ms (1)
+Sep 28 02:32:28 symfony [info] {sfWebDebugLogger} Action "static/home" 0.14 ms (1)
+Sep 28 02:32:28 symfony [info] {sfWebDebugLogger} View "Success" for "static/home" 13.84 ms (1)
+Sep 28 02:32:28 symfony [info] {sfWebResponse} Send content (32332 o)
+Sep 28 02:32:28 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/images/ref.jpg" (/).
+Sep 28 02:32:28 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:32:28 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:32:28 symfony [info] {sfWebDebugLogger} Configuration 7.91 ms (5)
+Sep 28 02:32:28 symfony [info] {sfWebDebugLogger} Factories 10.56 ms (1)
+Sep 28 02:32:29 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/images/ref.jpg" (/).
+Sep 28 02:32:29 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:32:29 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:32:29 symfony [info] {sfWebDebugLogger} Configuration 2.04 ms (5)
+Sep 28 02:32:29 symfony [info] {sfWebDebugLogger} Factories 11.57 ms (1)
+Sep 28 02:32:31 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'static',  'action' => 'index',)
+Sep 28 02:32:31 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 02:32:31 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 02:32:31 symfony [info] {staticActions} Call "staticActions->executeIndex()"
+Sep 28 02:32:31 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/modules/static/templates/indexSuccess.php"
+Sep 28 02:32:31 symfony [info] {sfPHPView} Decorate content with "/media/D/www/mielycanelacl/apps/frontend/templates/index.php"
+Sep 28 02:32:31 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/templates/index.php"
+Sep 28 02:32:31 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 28 02:32:31 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:32:31 symfony [info] {sfWebDebugLogger} Configuration 3.94 ms (9)
+Sep 28 02:32:31 symfony [info] {sfWebDebugLogger} Factories 12.64 ms (1)
+Sep 28 02:32:31 symfony [info] {sfWebDebugLogger} Action "static/index" 0.21 ms (1)
+Sep 28 02:32:31 symfony [info] {sfWebDebugLogger} View "Success" for "static/index" 6.44 ms (1)
+Sep 28 02:32:31 symfony [info] {sfWebResponse} Send content (29705 o)
+Sep 28 02:32:31 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/tex.swf" (/).
+Sep 28 02:32:31 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:32:31 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:32:31 symfony [info] {sfWebDebugLogger} Configuration 2.74 ms (5)
+Sep 28 02:32:31 symfony [info] {sfWebDebugLogger} Factories 12.43 ms (1)
+Sep 28 02:32:31 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/index.swf" (/).
+Sep 28 02:32:32 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:32:32 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:32:32 symfony [info] {sfWebDebugLogger} Configuration 3.81 ms (5)
+Sep 28 02:32:32 symfony [info] {sfWebDebugLogger} Factories 51.41 ms (1)
+Sep 28 02:36:52 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'static',  'action' => 'index',)
+Sep 28 02:36:52 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 02:36:52 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 02:36:52 symfony [info] {staticActions} Call "staticActions->executeIndex()"
+Sep 28 02:36:52 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/modules/static/templates/indexSuccess.php"
+Sep 28 02:36:52 symfony [info] {sfPHPView} Decorate content with "/media/D/www/mielycanelacl/apps/frontend/templates/index.php"
+Sep 28 02:36:52 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/templates/index.php"
+Sep 28 02:36:52 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 28 02:36:52 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:36:52 symfony [info] {sfWebDebugLogger} Configuration 99.00 ms (9)
+Sep 28 02:36:52 symfony [info] {sfWebDebugLogger} Factories 57.43 ms (1)
+Sep 28 02:36:52 symfony [info] {sfWebDebugLogger} Action "static/index" 0.14 ms (1)
+Sep 28 02:36:52 symfony [info] {sfWebDebugLogger} View "Success" for "static/index" 10.99 ms (1)
+Sep 28 02:36:52 symfony [info] {sfWebResponse} Send content (29898 o)
+Sep 28 02:36:53 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/index.swf" (/).
+Sep 28 02:36:53 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:36:53 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:36:53 symfony [info] {sfWebDebugLogger} Configuration 3.36 ms (5)
+Sep 28 02:36:53 symfony [info] {sfWebDebugLogger} Factories 30.89 ms (1)
+Sep 28 02:36:53 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/tex.swf" (/).
+Sep 28 02:36:53 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:36:53 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:36:53 symfony [info] {sfWebDebugLogger} Configuration 3.30 ms (5)
+Sep 28 02:36:53 symfony [info] {sfWebDebugLogger} Factories 61.97 ms (1)
+Sep 28 02:39:14 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'static',  'action' => 'index',)
+Sep 28 02:39:14 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 02:39:14 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 02:39:14 symfony [info] {staticActions} Call "staticActions->executeIndex()"
+Sep 28 02:39:14 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/modules/static/templates/indexSuccess.php"
+Sep 28 02:39:14 symfony [info] {sfPHPView} Decorate content with "/media/D/www/mielycanelacl/apps/frontend/templates/base.php"
+Sep 28 02:39:14 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/templates/base.php"
+Sep 28 02:39:14 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 28 02:39:14 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:39:14 symfony [info] {sfWebDebugLogger} Configuration 96.37 ms (9)
+Sep 28 02:39:14 symfony [info] {sfWebDebugLogger} Factories 54.79 ms (1)
+Sep 28 02:39:14 symfony [info] {sfWebDebugLogger} Action "static/index" 0.14 ms (1)
+Sep 28 02:39:14 symfony [info] {sfWebDebugLogger} View "Success" for "static/index" 14.65 ms (1)
+Sep 28 02:39:14 symfony [info] {sfWebResponse} Send content (29928 o)
+Sep 28 02:39:15 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/index.swf" (/).
+Sep 28 02:39:15 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:39:15 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:39:15 symfony [info] {sfWebDebugLogger} Configuration 2.60 ms (5)
+Sep 28 02:39:15 symfony [info] {sfWebDebugLogger} Factories 13.77 ms (1)
+Sep 28 02:39:15 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/tex.swf" (/).
+Sep 28 02:39:15 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:39:15 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:39:15 symfony [info] {sfWebDebugLogger} Configuration 3.35 ms (5)
+Sep 28 02:39:15 symfony [info] {sfWebDebugLogger} Factories 44.34 ms (1)
+Sep 28 02:41:10 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'static',  'action' => 'index',)
+Sep 28 02:41:10 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 02:41:10 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 02:41:10 symfony [info] {staticActions} Call "staticActions->executeIndex()"
+Sep 28 02:41:10 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/modules/static/templates/indexSuccess.php"
+Sep 28 02:41:10 symfony [info] {sfPHPView} Decorate content with "/media/D/www/mielycanelacl/apps/frontend/templates/base.php"
+Sep 28 02:41:10 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/templates/base.php"
+Sep 28 02:41:10 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 28 02:41:10 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:41:10 symfony [info] {sfWebDebugLogger} Configuration 101.47 ms (9)
+Sep 28 02:41:10 symfony [info] {sfWebDebugLogger} Factories 59.08 ms (1)
+Sep 28 02:41:10 symfony [info] {sfWebDebugLogger} Action "static/index" 0.13 ms (1)
+Sep 28 02:41:10 symfony [info] {sfWebDebugLogger} View "Success" for "static/index" 11.38 ms (1)
+Sep 28 02:41:10 symfony [info] {sfWebResponse} Send content (29929 o)
+Sep 28 02:41:10 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/index.swf" (/).
+Sep 28 02:41:10 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:41:10 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:41:10 symfony [info] {sfWebDebugLogger} Configuration 3.19 ms (5)
+Sep 28 02:41:10 symfony [info] {sfWebDebugLogger} Factories 17.27 ms (1)
+Sep 28 02:41:10 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/tex.swf" (/).
+Sep 28 02:41:10 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:41:10 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:41:10 symfony [info] {sfWebDebugLogger} Configuration 3.48 ms (5)
+Sep 28 02:41:10 symfony [info] {sfWebDebugLogger} Factories 52.89 ms (1)
+Sep 28 02:42:20 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'static',  'action' => 'index',)
+Sep 28 02:42:20 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 02:42:20 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 02:42:20 symfony [info] {staticActions} Call "staticActions->executeIndex()"
+Sep 28 02:42:20 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/modules/static/templates/indexSuccess.php"
+Sep 28 02:42:20 symfony [info] {sfPHPView} Decorate content with "/media/D/www/mielycanelacl/apps/frontend/templates/base.php"
+Sep 28 02:42:20 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/templates/base.php"
+Sep 28 02:42:20 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 28 02:42:20 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:42:20 symfony [info] {sfWebDebugLogger} Configuration 103.95 ms (9)
+Sep 28 02:42:20 symfony [info] {sfWebDebugLogger} Factories 64.75 ms (1)
+Sep 28 02:42:20 symfony [info] {sfWebDebugLogger} Action "static/index" 0.16 ms (1)
+Sep 28 02:42:20 symfony [info] {sfWebDebugLogger} View "Success" for "static/index" 12.21 ms (1)
+Sep 28 02:42:20 symfony [info] {sfWebResponse} Send content (29929 o)
+Sep 28 02:42:20 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/index.swf" (/).
+Sep 28 02:42:20 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:42:20 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:42:20 symfony [info] {sfWebDebugLogger} Configuration 1.92 ms (5)
+Sep 28 02:42:20 symfony [info] {sfWebDebugLogger} Factories 15.74 ms (1)
+Sep 28 02:42:20 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/tex.swf" (/).
+Sep 28 02:42:20 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:42:20 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:42:20 symfony [info] {sfWebDebugLogger} Configuration 2.34 ms (5)
+Sep 28 02:42:20 symfony [info] {sfWebDebugLogger} Factories 35.32 ms (1)
+Sep 28 02:43:28 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'static',  'action' => 'index',)
+Sep 28 02:43:28 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 02:43:28 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 02:43:28 symfony [info] {staticActions} Call "staticActions->executeIndex()"
+Sep 28 02:43:28 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/modules/static/templates/indexSuccess.php"
+Sep 28 02:43:28 symfony [info] {sfPHPView} Decorate content with "/media/D/www/mielycanelacl/apps/frontend/templates/base.php"
+Sep 28 02:43:28 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/templates/base.php"
+Sep 28 02:43:28 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 28 02:43:28 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:43:28 symfony [info] {sfWebDebugLogger} Configuration 22.90 ms (10)
+Sep 28 02:43:28 symfony [info] {sfWebDebugLogger} Factories 12.54 ms (1)
+Sep 28 02:43:28 symfony [info] {sfWebDebugLogger} Action "static/index" 0.13 ms (1)
+Sep 28 02:43:28 symfony [info] {sfWebDebugLogger} View "Success" for "static/index" 25.87 ms (1)
+Sep 28 02:43:28 symfony [info] {sfWebResponse} Send content (29929 o)
+Sep 28 02:43:28 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/tex.swf" (/).
+Sep 28 02:43:28 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:43:28 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:43:28 symfony [info] {sfWebDebugLogger} Configuration 3.59 ms (5)
+Sep 28 02:43:28 symfony [info] {sfWebDebugLogger} Factories 23.64 ms (1)
+Sep 28 02:43:28 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/index.swf" (/).
+Sep 28 02:43:28 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:43:28 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:43:28 symfony [info] {sfWebDebugLogger} Configuration 4.35 ms (5)
+Sep 28 02:43:28 symfony [info] {sfWebDebugLogger} Factories 58.20 ms (1)
+Sep 28 02:43:33 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'static',  'action' => 'index',)
+Sep 28 02:43:34 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 02:43:34 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 02:43:34 symfony [info] {staticActions} Call "staticActions->executeIndex()"
+Sep 28 02:43:34 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/modules/static/templates/indexSuccess.php"
+Sep 28 02:43:34 symfony [info] {sfPHPView} Decorate content with "/media/D/www/mielycanelacl/apps/frontend/templates/base.php"
+Sep 28 02:43:34 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/templates/base.php"
+Sep 28 02:43:34 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 28 02:43:34 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:43:34 symfony [info] {sfWebDebugLogger} Configuration 120.88 ms (9)
+Sep 28 02:43:34 symfony [info] {sfWebDebugLogger} Factories 67.47 ms (1)
+Sep 28 02:43:34 symfony [info] {sfWebDebugLogger} Action "static/index" 0.16 ms (1)
+Sep 28 02:43:34 symfony [info] {sfWebDebugLogger} View "Success" for "static/index" 11.81 ms (1)
+Sep 28 02:43:34 symfony [info] {sfWebResponse} Send content (29929 o)
+Sep 28 02:43:34 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/index.swf" (/).
+Sep 28 02:43:34 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:43:34 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:43:34 symfony [info] {sfWebDebugLogger} Configuration 3.61 ms (5)
+Sep 28 02:43:34 symfony [info] {sfWebDebugLogger} Factories 20.23 ms (1)
+Sep 28 02:43:34 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/tex.swf" (/).
+Sep 28 02:43:34 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:43:34 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:43:34 symfony [info] {sfWebDebugLogger} Configuration 3.70 ms (5)
+Sep 28 02:43:34 symfony [info] {sfWebDebugLogger} Factories 59.26 ms (1)
+Sep 28 02:43:54 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'static',  'action' => 'index',)
+Sep 28 02:43:54 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 02:43:54 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 02:43:54 symfony [info] {staticActions} Call "staticActions->executeIndex()"
+Sep 28 02:43:54 symfony [err] {InvalidArgumentException} Unable to parse file "/media/D/www/mielycanelacl/apps/frontend/modules/static/config/view.yml": Malformed inline YAML string ({ base.css }).
+Sep 28 02:43:54 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Sep 28 02:43:54 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:43:54 symfony [info] {sfWebDebugLogger} Configuration 99.45 ms (8)
+Sep 28 02:43:54 symfony [info] {sfWebDebugLogger} Factories 61.49 ms (1)
+Sep 28 02:43:54 symfony [info] {sfWebDebugLogger} Action "static/index" 0.16 ms (1)
+Sep 28 02:43:54 symfony [info] {sfWebDebugLogger} View "Success" for "static/index" 34.33 ms (1)
+Sep 28 02:44:18 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'static',  'action' => 'index',)
+Sep 28 02:44:18 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 02:44:18 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 02:44:18 symfony [info] {staticActions} Call "staticActions->executeIndex()"
+Sep 28 02:44:18 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/modules/static/templates/indexSuccess.php"
+Sep 28 02:44:18 symfony [info] {sfPHPView} Decorate content with "/media/D/www/mielycanelacl/apps/frontend/templates/base.php"
+Sep 28 02:44:18 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/templates/base.php"
+Sep 28 02:44:18 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 28 02:44:18 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:44:18 symfony [info] {sfWebDebugLogger} Configuration 105.41 ms (9)
+Sep 28 02:44:18 symfony [info] {sfWebDebugLogger} Factories 55.37 ms (1)
+Sep 28 02:44:18 symfony [info] {sfWebDebugLogger} Action "static/index" 7.39 ms (1)
+Sep 28 02:44:18 symfony [info] {sfWebDebugLogger} View "Success" for "static/index" 25.07 ms (1)
+Sep 28 02:44:18 symfony [info] {sfWebResponse} Send content (30025 o)
+Sep 28 02:44:19 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/index.swf" (/).
+Sep 28 02:44:19 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:44:19 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:44:19 symfony [info] {sfWebDebugLogger} Configuration 2.14 ms (5)
+Sep 28 02:44:19 symfony [info] {sfWebDebugLogger} Factories 16.15 ms (1)
+Sep 28 02:44:19 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/tex.swf" (/).
+Sep 28 02:44:19 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:44:19 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:44:19 symfony [info] {sfWebDebugLogger} Configuration 5.17 ms (5)
+Sep 28 02:44:19 symfony [info] {sfWebDebugLogger} Factories 39.10 ms (1)
+Sep 28 02:45:05 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'static',  'action' => 'index',)
+Sep 28 02:45:05 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 02:45:05 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 02:45:05 symfony [info] {staticActions} Call "staticActions->executeIndex()"
+Sep 28 02:45:05 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/modules/static/templates/indexSuccess.php"
+Sep 28 02:45:05 symfony [info] {sfPHPView} Decorate content with "/media/D/www/mielycanelacl/apps/frontend/templates/base.php"
+Sep 28 02:45:05 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/templates/base.php"
+Sep 28 02:45:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 28 02:45:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:45:05 symfony [info] {sfWebDebugLogger} Configuration 101.59 ms (9)
+Sep 28 02:45:05 symfony [info] {sfWebDebugLogger} Factories 55.96 ms (1)
+Sep 28 02:45:05 symfony [info] {sfWebDebugLogger} Action "static/index" 0.14 ms (1)
+Sep 28 02:45:05 symfony [info] {sfWebDebugLogger} View "Success" for "static/index" 12.00 ms (1)
+Sep 28 02:45:05 symfony [info] {sfWebResponse} Send content (30024 o)
+Sep 28 02:45:06 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/tex.swf" (/).
+Sep 28 02:45:06 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:45:06 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:45:06 symfony [info] {sfWebDebugLogger} Configuration 3.80 ms (5)
+Sep 28 02:45:06 symfony [info] {sfWebDebugLogger} Factories 20.75 ms (1)
+Sep 28 02:45:06 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/index.swf" (/).
+Sep 28 02:45:06 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:45:06 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:45:06 symfony [info] {sfWebDebugLogger} Configuration 3.75 ms (5)
+Sep 28 02:45:06 symfony [info] {sfWebDebugLogger} Factories 52.15 ms (1)
+Sep 28 02:46:02 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'static',  'action' => 'index',)
+Sep 28 02:46:02 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 02:46:02 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 02:46:02 symfony [info] {staticActions} Call "staticActions->executeIndex()"
+Sep 28 02:46:02 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/modules/static/templates/indexSuccess.php"
+Sep 28 02:46:02 symfony [info] {sfPHPView} Decorate content with "/media/D/www/mielycanelacl/apps/frontend/templates/base.php"
+Sep 28 02:46:02 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/templates/base.php"
+Sep 28 02:46:02 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 28 02:46:02 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:46:02 symfony [info] {sfWebDebugLogger} Configuration 106.34 ms (9)
+Sep 28 02:46:02 symfony [info] {sfWebDebugLogger} Factories 60.83 ms (1)
+Sep 28 02:46:02 symfony [info] {sfWebDebugLogger} Action "static/index" 0.17 ms (1)
+Sep 28 02:46:02 symfony [info] {sfWebDebugLogger} View "Success" for "static/index" 12.47 ms (1)
+Sep 28 02:46:02 symfony [info] {sfWebResponse} Send content (29751 o)
+Sep 28 02:46:02 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/tex.swf" (/).
+Sep 28 02:46:02 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:46:02 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:46:02 symfony [info] {sfWebDebugLogger} Configuration 3.35 ms (5)
+Sep 28 02:46:02 symfony [info] {sfWebDebugLogger} Factories 23.32 ms (1)
+Sep 28 02:46:02 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/index.swf" (/).
+Sep 28 02:46:02 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:46:02 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:46:02 symfony [info] {sfWebDebugLogger} Configuration 5.04 ms (5)
+Sep 28 02:46:02 symfony [info] {sfWebDebugLogger} Factories 51.35 ms (1)
+Sep 28 02:47:23 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'static',  'action' => 'index',)
+Sep 28 02:47:23 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 02:47:23 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 02:47:23 symfony [info] {staticActions} Call "staticActions->executeIndex()"
+Sep 28 02:47:23 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/modules/static/templates/indexSuccess.php"
+Sep 28 02:47:23 symfony [info] {sfPHPView} Decorate content with "/media/D/www/mielycanelacl/apps/frontend/templates/base.php"
+Sep 28 02:47:23 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/templates/base.php"
+Sep 28 02:47:23 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 28 02:47:23 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:47:23 symfony [info] {sfWebDebugLogger} Configuration 3.87 ms (9)
+Sep 28 02:47:23 symfony [info] {sfWebDebugLogger} Factories 11.80 ms (1)
+Sep 28 02:47:23 symfony [info] {sfWebDebugLogger} Action "static/index" 0.13 ms (1)
+Sep 28 02:47:23 symfony [info] {sfWebDebugLogger} View "Success" for "static/index" 6.81 ms (1)
+Sep 28 02:47:23 symfony [info] {sfWebResponse} Send content (29746 o)
+Sep 28 02:47:24 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/tex.swf" (/).
+Sep 28 02:47:24 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:47:24 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:47:24 symfony [info] {sfWebDebugLogger} Configuration 3.66 ms (5)
+Sep 28 02:47:24 symfony [info] {sfWebDebugLogger} Factories 25.18 ms (1)
+Sep 28 02:47:24 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/index.swf" (/).
+Sep 28 02:47:24 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:47:24 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:47:24 symfony [info] {sfWebDebugLogger} Configuration 5.00 ms (5)
+Sep 28 02:47:24 symfony [info] {sfWebDebugLogger} Factories 47.60 ms (1)
+Sep 28 02:47:35 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'static',  'action' => 'index',)
+Sep 28 02:47:35 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 02:47:35 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 02:47:35 symfony [info] {staticActions} Call "staticActions->executeIndex()"
+Sep 28 02:47:35 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/modules/static/templates/indexSuccess.php"
+Sep 28 02:47:35 symfony [info] {sfPHPView} Decorate content with "/media/D/www/mielycanelacl/apps/frontend/templates/base.php"
+Sep 28 02:47:35 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/templates/base.php"
+Sep 28 02:47:35 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 28 02:47:35 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:47:35 symfony [info] {sfWebDebugLogger} Configuration 109.27 ms (9)
+Sep 28 02:47:35 symfony [info] {sfWebDebugLogger} Factories 69.40 ms (1)
+Sep 28 02:47:35 symfony [info] {sfWebDebugLogger} Action "static/index" 0.23 ms (1)
+Sep 28 02:47:35 symfony [info] {sfWebDebugLogger} View "Success" for "static/index" 15.16 ms (1)
+Sep 28 02:47:35 symfony [info] {sfWebResponse} Send content (29751 o)
+Sep 28 02:47:35 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/tex.swf" (/).
+Sep 28 02:47:35 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:47:35 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:47:35 symfony [info] {sfWebDebugLogger} Configuration 3.41 ms (5)
+Sep 28 02:47:35 symfony [info] {sfWebDebugLogger} Factories 24.00 ms (1)
+Sep 28 02:47:35 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/index.swf" (/).
+Sep 28 02:47:35 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:47:35 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:47:35 symfony [info] {sfWebDebugLogger} Configuration 6.70 ms (5)
+Sep 28 02:47:35 symfony [info] {sfWebDebugLogger} Factories 56.21 ms (1)
+Sep 28 02:52:05 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'static',  'action' => 'index',)
+Sep 28 02:52:05 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 02:52:05 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 02:52:05 symfony [info] {staticActions} Call "staticActions->executeIndex()"
+Sep 28 02:52:05 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/modules/static/templates/indexSuccess.php"
+Sep 28 02:52:05 symfony [warning] {sfWebDebugLogger}  Warning at /media/D/www/mielycanelacl/lib/vendor/symfony/lib/helper/UrlHelper.php on line 33 (Missing argument 2 for link_to1())
+Sep 28 02:52:05 symfony [notice] {sfWebDebugLogger}  Notice at /media/D/www/mielycanelacl/lib/vendor/symfony/lib/helper/UrlHelper.php on line 51 (Undefined variable: internal_uri)
+Sep 28 02:52:05 symfony [warning] {sfWebDebugLogger}  Warning at /media/D/www/mielycanelacl/lib/vendor/symfony/lib/helper/UrlHelper.php on line 90 (array_merge(): Argument #2 is not an array)
+Sep 28 02:52:05 symfony [err] {sfConfigurationException} Unable to find a matching route to generate url for params "NULL".
+Sep 28 02:52:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Sep 28 02:52:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:52:05 symfony [info] {sfWebDebugLogger} Configuration 3.55 ms (9)
+Sep 28 02:52:05 symfony [info] {sfWebDebugLogger} Factories 11.15 ms (1)
+Sep 28 02:52:05 symfony [info] {sfWebDebugLogger} Action "static/index" 0.14 ms (1)
+Sep 28 02:52:05 symfony [info] {sfWebDebugLogger} View "Success" for "static/index" 81.34 ms (1)
+Sep 28 02:52:56 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'static',  'action' => 'index',)
+Sep 28 02:52:56 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 02:52:56 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 02:52:56 symfony [info] {staticActions} Call "staticActions->executeIndex()"
+Sep 28 02:52:56 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/modules/static/templates/indexSuccess.php"
+Sep 28 02:52:56 symfony [info] {sfPHPView} Decorate content with "/media/D/www/mielycanelacl/apps/frontend/templates/base.php"
+Sep 28 02:52:56 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/templates/base.php"
+Sep 28 02:52:56 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 28 02:52:56 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:52:56 symfony [info] {sfWebDebugLogger} Configuration 3.64 ms (9)
+Sep 28 02:52:56 symfony [info] {sfWebDebugLogger} Factories 10.15 ms (1)
+Sep 28 02:52:56 symfony [info] {sfWebDebugLogger} Action "static/index" 0.15 ms (1)
+Sep 28 02:52:56 symfony [info] {sfWebDebugLogger} View "Success" for "static/index" 6.07 ms (1)
+Sep 28 02:52:56 symfony [info] {sfWebResponse} Send content (29793 o)
+Sep 28 02:52:56 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/tex.swf" (/).
+Sep 28 02:52:56 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:52:56 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:52:56 symfony [info] {sfWebDebugLogger} Configuration 3.15 ms (5)
+Sep 28 02:52:56 symfony [info] {sfWebDebugLogger} Factories 15.04 ms (1)
+Sep 28 02:52:56 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/index.swf" (/).
+Sep 28 02:52:56 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:52:56 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:52:56 symfony [info] {sfWebDebugLogger} Configuration 4.08 ms (5)
+Sep 28 02:52:56 symfony [info] {sfWebDebugLogger} Factories 50.09 ms (1)
+Sep 28 02:53:01 symfony [info] {sfPatternRouting} Match route "home" (/home) for /home with parameters array (  'module' => 'static',  'action' => 'home',)
+Sep 28 02:53:01 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 02:53:01 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 02:53:01 symfony [info] {staticActions} Call "staticActions->executeHome()"
+Sep 28 02:53:01 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/modules/static/templates/homeSuccess.php"
+Sep 28 02:53:01 symfony [info] {sfPHPView} Decorate content with "/media/D/www/mielycanelacl/apps/frontend/templates/layout.php"
+Sep 28 02:53:01 symfony [info] {sfPHPView} Render "/media/D/www/mielycanelacl/apps/frontend/templates/layout.php"
+Sep 28 02:53:01 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 28 02:53:01 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:53:01 symfony [info] {sfWebDebugLogger} Configuration 10.73 ms (9)
+Sep 28 02:53:01 symfony [info] {sfWebDebugLogger} Factories 17.74 ms (1)
+Sep 28 02:53:01 symfony [info] {sfWebDebugLogger} Action "static/home" 0.15 ms (1)
+Sep 28 02:53:01 symfony [info] {sfWebDebugLogger} View "Success" for "static/home" 5.97 ms (1)
+Sep 28 02:53:01 symfony [info] {sfWebResponse} Send content (32376 o)
+Sep 28 02:53:01 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/images/ref.jpg" (/).
+Sep 28 02:53:01 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:53:01 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:53:01 symfony [info] {sfWebDebugLogger} Configuration 2.10 ms (5)
+Sep 28 02:53:01 symfony [info] {sfWebDebugLogger} Factories 10.10 ms (1)
+Sep 28 02:53:01 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/images/ref.jpg" (/).
+Sep 28 02:53:01 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 02:53:01 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 02:53:01 symfony [info] {sfWebDebugLogger} Configuration 1.83 ms (5)
+Sep 28 02:53:01 symfony [info] {sfWebDebugLogger} Factories 9.38 ms (1)

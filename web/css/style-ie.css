@@ -1,0 +1,14 @@
+#foot #foot-close           { top: -9px; }
+#foot .breezy               { background: url('images/contact-us.gif') 0 0 no-repeat; }
+
+.content-left .img{
+    margin: 0 0 0 2px;
+}
+
+.content-right .middle ul li a{
+    height: 15px;
+}
+
+.kontakt-box .img{
+    margin: 16px 7px 0 7px;
+}
