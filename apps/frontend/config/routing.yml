@@ -17,6 +17,10 @@ promociones:
   url:  /promociones
   param: { module: static, action: promociones }
 
+donde-estamos:
+  url:  /donde-estamos
+  param: { module: static, action: dondeestamos }
+
 # default rules
 homepage:
   url:   /

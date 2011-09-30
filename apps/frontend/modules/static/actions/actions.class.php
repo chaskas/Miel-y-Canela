@@ -30,4 +30,7 @@ class staticActions extends sfActions
   public function executeNosotros(sfWebRequest $request)
   {
   }
+  public function executeDondeestamos(sfWebRequest $request)
+  {
+  }
 }

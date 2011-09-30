@@ -41,3 +41,6 @@ indexSuccess:
       
   has_layout:     true
   layout:         base
+
+dondeestamosSuccess:
+  javascripts: [tools.js]
