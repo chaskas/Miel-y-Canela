@@ -1903,3 +1903,102 @@ body.red-skin .content-left-full-width img.right{
 body.red-skin .content-left-full-width .col h3{
     border-bottom: 1px solid #8a2f08;
 }
+
+/* Banner */
+#banner {
+  margin-bottom: 10px;
+  height: 300px;
+  width: 900px;
+}
+#banner img {
+  display: block;
+}
+#banner .info {
+  width: 250px;
+  height: 300px;
+  background: url(../images/banner_overlay.png);
+  position: relative;
+  top: -300px;
+  color: #ffffff;
+}
+#banner .info div {
+  padding: 35px;
+}
+#banner .info div h1 {
+  font: 1.9em Georgia;
+  margin-top: 60px;
+  color: #ffffff;
+}
+#banner .info div h3 {
+  font: 1.0em Georgia;
+  margin-bottom: 10px;
+  color: #ffff00;
+  position: relative;
+  left: 0px;
+  top: -10px;
+}
+#banner .info div p {
+  font: 1.0em Georgia;
+  line-height: 1.8em;
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 180px;
+}
+#banner .info a.more {
+  display: inline-block;
+  padding: 5px 10px;
+  background: #9c0000;
+  color: #ffffff;
+}
+
+/* -------------------------------------- */
+/* -------  SLIDER  --------------------- */
+/* Slider controls */
+#controls {
+  position: relative;
+  left: 659px;
+  top: -68px;
+  width: 226px;
+}
+
+#slider { }
+#slider ul, #slider li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+#slider li {
+  width: 900px;
+  height: 300px;
+  overflow: hidden;
+}
+#prevBtn, #nextBtn {
+  display: block;
+  margin: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 20px;
+}
+#nextBtn {
+  left: 116px;
+}
+#prevBtn a, #nextBtn a {
+  display: block;
+  width: 106px;
+  padding: 7px 0px;
+  background: url(../images/banner_overlay.png);
+  color: #ffffff;
+  text-align: center;
+}
+#prevBtn a:hover, #nextBtn a:hover {
+  background: #9c0000;
+}
+#nextBtn a {
+  background: url(../images/banner_overlay.png);
+  width: 106px;
+  padding: 7px 0px;
+/*  background: #111212;*/
+  color: #ffffff;
+  text-align: center;
+}
