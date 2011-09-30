@@ -43,8 +43,8 @@
       <div class="in closed">
 
         <ul>
-          <li class="fl">&copy; WebDevel 2011 <a href="http://www.webdevel.cl/">www.webdevel.cl</a></li>
-          <li class="fr"><a href="#">Cont&aacute;ctanos</a> | <a href="#">Donde estamos</a></li>
+          <li class="fl">&copy; WebDevel 2011 <a href="http://www.webdevel.cl/" target="blank">www.webdevel.cl</a></li>
+          <li class="fr">| <a href="<?php echo url_for('static/dondeestamos'); ?>">Donde estamos</a></li>
         </ul>
       </div> <!-- /.in --> 
 
@@ -81,8 +81,8 @@
         </div><!-- end: #contact-form -->
 
         <div id="footer-links">
-          <p id="copyright">&copy; WebDevel 2011 <a href="http://www.webdevel.cl/">www.webdevel.cl</a></p>
-          <p id="footer-nav"><a href="#">Cont&aacute;ctanos</a> | <a href="#">Donde estamos</a></p>
+          <p id="copyright">&copy; WebDevel 2011 <a href="http://www.webdevel.cl/" target="blank">www.webdevel.cl</a></p>
+          <p id="footer-nav">| <a href="<?php echo url_for('static/dondeestamos'); ?>">Donde estamos</a></p>
         </div><!-- end: #footer-links -->
 
 
