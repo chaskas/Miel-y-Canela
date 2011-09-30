@@ -17,7 +17,7 @@
           <div>
             <h1>Miel y Canela</h1>
             <h3>Panader&iacute;a y Pasteler&iacute;a</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos.</p>
           </div>
         </div>
       </li>
@@ -27,7 +27,7 @@
           <div>
             <h1>Miel y Canela</h1>
             <h3>Panader&iacute;a y Pasteler&iacute;a</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos.</p>
           </div>
         </div>
       </li>
@@ -37,7 +37,7 @@
           <div>
             <h1>Miel y Canela</h1>
             <h3>Panader&iacute;a y Pasteler&iacute;a</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos.</p>
           </div>
         </div>
       </li>
