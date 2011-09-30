@@ -64,12 +64,12 @@
 #galleryContainer
 {
     width: 800px;
-    height: 620px;
+    height: 900px;
     margin-bottom : 0px;
     margin-left: 20px;
     margin-top: 10px;
     border: 0px solid #ddd;
-    overflow: hidden;
+/*    overflow: hidden;*/
     position: relative;     
 }
 
@@ -82,8 +82,8 @@
     border-bottom: 0px solid #777;
     left: 0px;
     top: 0px;
-    height:620px;
-    overflow: hidden;
+/*    height:620px;*/
+/*    overflow: hidden;*/
 }
 
 .galleryRow
@@ -91,7 +91,7 @@
     height: 190px;
     background-color:transparent;
     margin-bottom: 15px;
-    width: 960px;
+    width: 800px;
 } 
 
 .galleryThumbWrapper

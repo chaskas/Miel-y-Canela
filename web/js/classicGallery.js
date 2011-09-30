@@ -248,22 +248,22 @@ function setupGalleryButtons()
 ****************************************/
 
 // set prettyPhoto
-function setupClassicGalleryLightBox()
-{
-    // we set pretty photo light box for every <a> element
-    // which have attribute rel startet from string "prettyPhoto"
-    // additionally:
-    //      - we allow to resize image 
-    //      - set the light box theme to light_rounded
-    //      - set own separtor for page list
-    //      - and allow to display title
-    $("a[rel^='prettyPhoto']").prettyPhoto({
-        theme: 'light_rounded', 
-        allowresize: true,
-        counter_separator_label: '-',
-        showTitle: true
-    });
-} // end of function setupClassicGalleryLightBox
+//function setupClassicGalleryLightBox()
+//{
+//    // we set pretty photo light box for every <a> element
+//    // which have attribute rel startet from string "prettyPhoto"
+//    // additionally:
+//    //      - we allow to resize image
+//    //      - set the light box theme to light_rounded
+//    //      - set own separtor for page list
+//    //      - and allow to display title
+//    $("a[rel^='prettyPhoto']").prettyPhoto({
+//        theme: 'light_rounded',
+//        allowresize: true,
+//        counter_separator_label: '-',
+//        showTitle: true
+//    });
+//} // end of function setupClassicGalleryLightBox
 
 /***************************************
     ADDITIONAL CUFON FONT REPLACEMENT
@@ -282,7 +282,7 @@ function setupAdditionalCufonFontReplacement()
 
 function setupClassicImageGallery()
 {
-    setupClassicGalleryLightBox();
+    //setupClassicGalleryLightBox();
     setupAsynchronousThumbsLoading();
     setupSliderAndThumbs();
     setupAdditionalCufonFontReplacement();
