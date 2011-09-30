@@ -2,6 +2,7 @@ var slideDown = false;
 var slideObj = null;
 var animating = false;
 
+
 $(document).ready(function(){
     
     if ($('#tabs-container').length)

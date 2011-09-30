@@ -46,16 +46,7 @@
           <li class="fl">&copy; WebDevel 2011 <a href="http://www.webdevel.cl/">www.webdevel.cl</a></li>
           <li class="fr"><a href="#">Cont&aacute;ctanos</a> | <a href="#">Donde estamos</a></li>
         </ul>
-      </div> <!-- /.in -->
-
-      <script type="text/javascript">
-        /* <![CDATA[ */
-        $(document).ready(function(){ 
-        
-    
-        });    
-        /* ]]> */
-      </script> 
+      </div> <!-- /.in --> 
 
       <div class="in formBox hidden"> 
         <div id="contact-form">	
