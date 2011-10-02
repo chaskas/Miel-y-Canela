@@ -30,11 +30,3 @@
     <td><p align="center" class="Estilo9">Los Conquistadores Sur 42 – Hualp&eacute;n / Fono: 041- 2783885 / email: contacto@mielycanela.cl</p></td>
   </tr>
 </table>
-
-<div id="foot">
-  <div class="in closed">
-    <ul>
-      <li class="fl">&copy; <a href="http://www.webdevel.cl/">WebDevel - 2011</a></li>
-    </ul>
-  </div>
-</div>

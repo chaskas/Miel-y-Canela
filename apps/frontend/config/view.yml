@@ -20,6 +20,7 @@ default:
                   - jquery.cluetip.js
                   - jquery.dimensions.pack.js
                   - init.js
+                  - sendmail.js
 
   has_layout:     true
   layout:         layout

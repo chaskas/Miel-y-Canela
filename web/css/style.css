@@ -2004,3 +2004,14 @@ body.red-skin .content-left-full-width .col h3{
   color: #ffffff;
   text-align: center;
 }
+div#sendmail {
+  color: #FFFFFF;
+}
+.box2{
+  text-align: center;
+  color: #FFFFFF;
+  height: 100%;
+  width: 100%;
+  padding: 50px 0;
+  font: 12pt Georgia;
+}

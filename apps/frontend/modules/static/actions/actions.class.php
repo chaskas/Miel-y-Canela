@@ -33,4 +33,29 @@ class staticActions extends sfActions
   public function executeDondeestamos(sfWebRequest $request)
   {
   }
+  public function executeSendmail(sfWebRequest $request)
+  {
+    $this->forward404Unless($request->isMethod('POST'));
+
+    $name     = $request->getParameter('name');
+    $email    = $request->getParameter('email');
+    $phone  = $request->getParameter('phone');
+    $pre_message  = $request->getParameter('message');
+
+    $message = $name."\n".$email."\nFono: ".$phone."\n\nDice:\n\n".$pre_message;
+
+    $mensaje = Swift_Message::newInstance()
+      ->setFrom($email)
+      ->setTo(array('contacto@mielycanela.cl')) //CAMBIAR AL CORREO DE DESTINO DEFINITIVO
+      ->setBcc(array('admin@webdevel.cl'))
+      ->setSubject('Nuevo mensaje desde www.mielycanela.cl')
+      ->setBody($message)
+    ;
+
+    $this->getMailer()->send($mensaje);
+
+    $this->getResponse()->setContent('El mensaje ha sido enviado satisfactoriamente...');
+
+    return sfView::NONE;
+  }
 }

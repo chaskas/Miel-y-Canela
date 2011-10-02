@@ -47,46 +47,7 @@
           <li class="fr">| <a href="<?php echo url_for('static/dondeestamos'); ?>">Donde estamos</a></li>
         </ul>
       </div> <!-- /.in --> 
-
-      <div class="in formBox hidden"> 
-        <div id="contact-form">	
-          <form action="">
-            <div class="column-left">	
-              <div class="column-small">
-                <label for="jmeno">Nombre completo</label>
-                <input type="text" id="jmeno" />
-              </div><!-- end: .column-small -->
-
-              <!-- end: .column-small -->
-              <div class="clear"></div>
-
-              <div class="column-small">
-                <label for="telefon">Tel&eacute;fono</label>
-                <input type="text" id="telefon" />
-              </div><!-- end: .column-small -->
-
-              <div class="column-small2">
-                <label for="email">E-mail</label>
-                <input type="text" id="email" />
-              </div><!-- end: .column-small -->
-            </div><!-- end: .column-left -->
-
-            <div class="column-big">
-              <label for="zprava">Texto</label>
-              <textarea id="zprava" rows="" cols=""></textarea><div class="clear"></div>
-              <input type="submit" class="button" value="" />
-            </div><!-- end: .column-big -->
-          </form>
-          <div class="clear"></div>
-        </div><!-- end: #contact-form -->
-
-        <div id="footer-links">
-          <p id="copyright">&copy; WebDevel 2011 <a href="http://www.webdevel.cl/" target="blank">www.webdevel.cl</a></p>
-          <p id="footer-nav">| <a href="<?php echo url_for('static/dondeestamos'); ?>">Donde estamos</a></p>
-        </div><!-- end: #footer-links -->
-
-
-      </div>
+      <?php include_component('static', 'contact') ?>
       <!-- /.in -->
       <a href="#" id="foot-close"><span class="breezy"></span></a> 
     </div> <!-- /#foot -->
