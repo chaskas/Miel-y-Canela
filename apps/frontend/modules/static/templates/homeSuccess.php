@@ -32,7 +32,7 @@
         </div>
       </li>
       <li>
-        <img src="./images/ref.jpg" width="860" height="260" alt="" />
+        <img src="./images/slide3.jpg" width="860" height="260" alt="" />
         <div class="info">
           <div>
             <h1>Miel y Canela</h1>

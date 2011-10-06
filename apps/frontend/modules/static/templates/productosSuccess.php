@@ -28,9 +28,11 @@
     <!-- gallery page 1 row 1 -->
     <div class="galleryRow">
       <div class="galleryThumbWrapper">                                                        
-        <a class="galleryThumb" href="img/gallery/classic/1/page1/fullsize/jarvdesign.jpg" rel="prettyPhoto[gallery][unusual]" title="img/gallery/classic/1/page1/thumbs/thumb1.jpg"></a>                            
+        <a class="galleryThumb" href="#" rel="prettyPhoto[gallery][unusual]" title="Kuchen de Manzana">
+          <?php echo image_tag('productos/kuchen-de-manzana.jpg'); ?>
+       </a>                            
         <div class="galleryThumbShadow"></div>
-        <div class="galleryThumbTitle">MielyCanela.cl</div>
+        <div class="galleryThumbTitle">Kuchen de Manzana</div>
         <div class="galleryThumbDesc">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
           Nulla neque ipsum.
@@ -38,9 +40,11 @@
       </div>
 
       <div class="galleryThumbWrapper">
-        <a class="galleryThumb" href="img/gallery/classic/1/page1/fullsize/afterschoolspecialcre.jpg" rel="prettyPhoto[gallery][unusual]" title="img/gallery/classic/1/page1/thumbs/thumb2.jpg"></a>
+        <a class="galleryThumb" href="#" rel="prettyPhoto[gallery][unusual]" title="Dulces Chilenos">
+          <?php echo image_tag('productos/dulces-chilenos.jpg'); ?>
+        </a>
         <div class="galleryThumbShadow"></div>
-        <div class="galleryThumbTitle">MielyCanela.cl</div>
+        <div class="galleryThumbTitle">Dulces Chilenos</div>
         <div class="galleryThumbDesc">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
           Nulla neque ipsum.
@@ -48,9 +52,11 @@
       </div>
 
       <div class="galleryThumbWrapper">
-        <a class="galleryThumb" href="img/gallery/classic/1/page1/fullsize/helga.jpg" rel="prettyPhoto[gallery][unusual]" title="img/gallery/classic/1/page1/thumbs/thumb3.jpg"></a>
+        <a class="galleryThumb" href="#" rel="prettyPhoto[gallery][unusual]" title="Brazo de Reina">
+          <?php echo image_tag('productos/brazo-de-reina.jpg'); ?>
+        </a>
         <div class="galleryThumbShadow"></div>
-        <div class="galleryThumbTitle">MielyCanela.cl</div>
+        <div class="galleryThumbTitle">Brazo de Reina</div>
         <div class="galleryThumbDesc">
           That's not true, of course. I think I'm pretty darn cute in person, heh.
         </div>                
@@ -60,9 +66,11 @@
     <!-- gallery page 1 row 2 -->
     <div class="galleryRow">
       <div class="galleryThumbWrapper">
-        <a class="galleryThumb" href="img/gallery/classic/1/page1/fullsize/breakdancer.jpg" rel="prettyPhoto[gallery][unusual]" title="img/gallery/classic/1/page1/thumbs/thumb4.jpg"></a>
+        <a class="galleryThumb" href="#" rel="prettyPhoto[gallery][unusual]" title="Pie de Limon">
+          <?php echo image_tag('productos/pie-de-limon.jpg'); ?>
+        </a>
         <div class="galleryThumbShadow"></div>
-        <div class="galleryThumbTitle">MielyCanela.cl</div>
+        <div class="galleryThumbTitle">Pie de Limon</div>
         <div class="galleryThumbDesc">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
           Nulla neque ipsum.
@@ -70,9 +78,11 @@
       </div>
 
       <div class="galleryThumbWrapper">
-        <a class="galleryThumb" href="img/gallery/classic/1/page1/fullsize/big.jpg" rel="prettyPhoto[gallery][unusual]" title="img/gallery/classic/1/page1/thumbs/thumb5.jpg"></a>
+        <a class="galleryThumb" href="#" rel="prettyPhoto[gallery][unusual]" title="Kuchen de Nuez">
+          <?php echo image_tag('productos/kuchen-de-nuez.jpg'); ?>
+        </a>
         <div class="galleryThumbShadow"></div>
-        <div class="galleryThumbTitle">MielyCanela.cl</div>
+        <div class="galleryThumbTitle">Kuchen de Nuez</div>
         <div class="galleryThumbDesc">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
           Nulla neque ipsum.
@@ -80,9 +90,11 @@
       </div>
 
       <div class="galleryThumbWrapper">
-        <a class="galleryThumb" href="img/gallery/classic/1/page1/fullsize/88ghostcrea.jpg" rel="prettyPhoto[gallery][unusual]" title="img/gallery/classic/1/page1/thumbs/thumb6.jpg"></a>
+        <a class="galleryThumb" href="#" rel="prettyPhoto[gallery][unusual]" title="Pan Heidi">
+          <?php echo image_tag('productos/pan-heidi.jpg'); ?>
+        </a>
         <div class="galleryThumbShadow"></div>
-        <div class="galleryThumbTitle">MielyCanela.cl</div>
+        <div class="galleryThumbTitle">Pan Heidi</div>
         <div class="galleryThumbDesc">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
           Nulla neque ipsum.
@@ -93,9 +105,11 @@
     <!-- gallery page 1 row 3 -->
     <div class="galleryRow">
       <div class="galleryThumbWrapper">
-        <a class="galleryThumb" href="img/gallery/classic/1/page1/fullsize/helga2.jpg" rel="prettyPhoto[gallery][unusual]" title="img/gallery/classic/1/page1/thumbs/thumb7.jpg"></a>
+        <a class="galleryThumb" href="img/gallery/classic/1/page1/fullsize/helga2.jpg" rel="prettyPhoto[gallery][unusual]" title="Kuchen de Frutas">
+          <?php echo image_tag('productos/kuchen-de-frutas.jpg'); ?>
+        </a>
         <div class="galleryThumbShadow"></div>
-        <div class="galleryThumbTitle">MielyCanela.cl</div>
+        <div class="galleryThumbTitle">Kuchen de Frutas</div>
         <div class="galleryThumbDesc">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
           Nulla neque ipsum.
@@ -103,9 +117,11 @@
       </div>
 
       <div class="galleryThumbWrapper">
-        <a class="galleryThumb" href="img/gallery/classic/1/page1/fullsize/DedicateToYou.jpg" rel="prettyPhoto[gallery][unusual]" title="img/gallery/classic/1/page1/thumbs/thumb8.jpg"></a>
+        <a class="galleryThumb" href="#" rel="prettyPhoto[gallery][unusual]" title="Pan Amasado">
+          <?php echo image_tag('productos/pan-amasado.jpg'); ?>
+        </a>
         <div class="galleryThumbShadow"></div>
-        <div class="galleryThumbTitle">MielyCanela.cl</div>
+        <div class="galleryThumbTitle">Pan Amasado</div>
         <div class="galleryThumbDesc">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
           Nulla neque ipsum.
@@ -113,9 +129,11 @@
       </div>
 
       <div class="galleryThumbWrapper">
-        <a class="galleryThumb" href="img/gallery/classic/1/page1/fullsize/dancer2.jpg" rel="prettyPhoto[gallery][unusual]" title="img/gallery/classic/1/page1/thumbs/thumb9.jpg"></a>
+        <a class="galleryThumb" href="#" rel="prettyPhoto[gallery][unusual]" title="Calzones Rotos">
+          <?php echo image_tag('productos/calzones-rotos.jpg'); ?>
+        </a>
         <div class="galleryThumbShadow"></div>
-        <div class="galleryThumbTitle">MielyCanela.cl</div>
+        <div class="galleryThumbTitle">Calzones Rotos</div>
         <div class="galleryThumbDesc">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
           Nulla neque ipsum.
@@ -126,9 +144,11 @@
     <!-- gallery page 1 row 4 -->
     <div class="galleryRow">
       <div class="galleryThumbWrapper">
-        <a class="galleryThumb" href="img/gallery/classic/1/page1/fullsize/helga2.jpg" rel="prettyPhoto[gallery][unusual]" title="img/gallery/classic/1/page1/thumbs/thumb7.jpg"></a>
+        <a class="galleryThumb" href="#" rel="prettyPhoto[gallery][unusual]" title="Pan Holand&eacute;s">
+          <?php echo image_tag('productos/pan-holandes.jpg'); ?>
+        </a>
         <div class="galleryThumbShadow"></div>
-        <div class="galleryThumbTitle">MielyCanela.cl</div>
+        <div class="galleryThumbTitle">Pan Holand&eacute;s</div>
         <div class="galleryThumbDesc">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit.
           Nulla neque ipsum.
@@ -136,9 +156,11 @@
       </div>
 
       <div class="galleryThumbWrapper">
-        <a class="galleryThumb" href="img/gallery/classic/1/page1/fullsize/DedicateToYou.jpg" rel="prettyPhoto[gallery][unusual]" title="img/gallery/classic/1/page1/thumbs/thumb8.jpg"></a>
+        <a class="galleryThumb" href="#" rel="prettyPhoto[gallery][unusual]" title="Kuchen de Linz">
+          <?php echo image_tag('productos/kuchen-de-linz.jpg'); ?>
+        </a>
         <div class="galleryThumbShadow"></div>
-        <div class="galleryThumbTitle">MielyCanela.cl</div>
+        <div class="galleryThumbTitle">Kuchen de Linz</div>
         <div class="galleryThumbDesc">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit.
           Nulla neque ipsum.
@@ -146,9 +168,47 @@
       </div>
 
       <div class="galleryThumbWrapper">
-        <a class="galleryThumb" href="img/gallery/classic/1/page1/fullsize/dancer2.jpg" rel="prettyPhoto[gallery][unusual]" title="img/gallery/classic/1/page1/thumbs/thumb9.jpg"></a>
+        <a class="galleryThumb" href="#" rel="prettyPhoto[gallery][unusual]" title="Kuchen de Frambuesas">
+          <?php echo image_tag('productos/kuchen-de-frambuesas.jpg'); ?>
+        </a>
         <div class="galleryThumbShadow"></div>
-        <div class="galleryThumbTitle">MielyCanela.cl</div>
+        <div class="galleryThumbTitle">Kuchen de Frambuesas</div>
+        <div class="galleryThumbDesc">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          Nulla neque ipsum.
+        </div>
+      </div>
+      
+      <div class="galleryThumbWrapper">
+        <a class="galleryThumb" href="#" rel="prettyPhoto[gallery][unusual]" title="Pizza">
+          <?php echo image_tag('productos/pizza.jpg'); ?>
+        </a>
+        <div class="galleryThumbShadow"></div>
+        <div class="galleryThumbTitle">Pizza</div>
+        <div class="galleryThumbDesc">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          Nulla neque ipsum.
+        </div>
+      </div>
+      
+      <div class="galleryThumbWrapper">
+        <a class="galleryThumb" href="#" rel="prettyPhoto[gallery][unusual]" title="Pie de Limon personal">
+          <?php echo image_tag('productos/pie-de-limon-personal.jpg'); ?>
+        </a>
+        <div class="galleryThumbShadow"></div>
+        <div class="galleryThumbTitle">Pie de Limon personal</div>
+        <div class="galleryThumbDesc">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          Nulla neque ipsum.
+        </div>
+      </div>
+      
+      <div class="galleryThumbWrapper">
+        <a class="galleryThumb" href="#" rel="prettyPhoto[gallery][unusual]" title="Pan amasado congelado">
+          <?php echo image_tag('productos/pan-amasado-congelado.jpg'); ?>
+        </a>
+        <div class="galleryThumbShadow"></div>
+        <div class="galleryThumbTitle">Pan amasado congelado</div>
         <div class="galleryThumbDesc">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit.
           Nulla neque ipsum.
