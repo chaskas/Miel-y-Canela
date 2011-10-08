@@ -6,11 +6,10 @@
 
       <div class="kontakt-left">
         <p class="left"><strong>Miel y Canela</strong><br />Panader&iacute;a y Pasteler&iacute;a</p>
-        <p class="left">Los Conquistadores #42 - Hualp&eacute;n<br />Fono: +56 41 <strong>2783885</strong></p>
+        <p class="left">Los Conquistadores sur #42 - Hualp&eacute;n<br />Fono: +56 41 <strong>2783885</strong></p>
         <div class="cleaner">&#160;</div>
         <br/><br/>
-        <h2>Lorem Ipsum.</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse potenti. Mauris odio libero</p>
+        <p>Ubicación privilegiada en la principal avenida de Hualpén y Talcahuano. A pasos de Avenida Colón en la comuna de Hualpén, y a aproximadamente 10 mínimos del Mall plaza del Trébol. Local cercano a la locomoción, de fácil acceso y visualización.</p>
         <div class="cleaner">&#160;</div>
       </div>
 
@@ -22,7 +21,7 @@
 
       <div class="kontakt-box">
         <div class="img"><img src="./images/ico/kontakt.png" alt=""/></div>
-        <p><strong>Sra. M&aacute;rcia Toro</strong><br />Tel. +56 41 <strong>278 38 85</strong><br />contacto@mielycanela.cl</p>
+        <p>Cel. +569 <strong>941 912 56</strong><br />Tel. +56 41 <strong>278 38 85</strong><br />contacto@mielycanela.cl</p>
         <div class="cleaner">&#160;</div>
       </div>
 

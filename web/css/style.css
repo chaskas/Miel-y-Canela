@@ -461,7 +461,7 @@ li.modul {
 .b-menu {
   width: 315px;
   float: left;
-  background: url(../images/hp/col-left.png) 0 15px no-repeat;
+  background: url(../images/col-left.jpg) 0 15px no-repeat;
 }
 
 .b-menu h4,.b-menu p{
@@ -479,7 +479,7 @@ li.modul {
 .b-graph {
   width: 315px;
   float: right;
-  background: url(../images/hp/col-right.png) 0 23px no-repeat;
+  background: url(../images/col-right.jpg) 0 23px no-repeat;
 }
 
 .b-graph h4,.b-graph p{
@@ -1219,7 +1219,12 @@ display:none;
     border-bottom: 5px solid #5a2e2e;
     margin: 0 0 20px 22px;
 }
-
+img.proceso-pan {
+    border-left: 6px solid #5a2e2e; 
+    border-right: 6px solid #5a2e2e;
+    border-top: 5px solid #5a2e2e;
+    border-bottom: 5px solid #5a2e2e;
+}
 .content-left-full-width .col{
     float: left;
     width: 238px;
@@ -1940,7 +1945,7 @@ body.red-skin .content-left-full-width .col h3{
   top: -10px;
 }
 #banner .info div p {
-  font: 8pt Georgia;
+  font: 9pt Georgia;
   line-height: 1.8em;
   position: relative;
   left: 0;

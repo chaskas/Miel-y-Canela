@@ -2,43 +2,41 @@
             <h1>Sobre nosotros</h1>
             <div class="content-left content-left-full-width">
                 <div class="inner">
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                    <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>    
+                    <p>Miel y Canela, es una panadería y pastelería familiar, fundada en el año 2005 con el afán de abastecer a la comunidad colindante, que carecía de alguna panadería o minimercado cercano. Surge inicialmente como una rotisería, pero la necesidad de tener pan fresco a diario le impulsa a dedicarse a este rubro. Al principio las provisiones, incluido el pan, solamente eran vendidas y no elaboradas, pero la distribución horaria no era la adecuada para entregar un producto fresco durante todo el día. Hoy los productos de panadería y pastelería son hechos por ellos en sus mismas instalaciones e incluso distribuidos, lo que permite tener a cualquier hora un producto de calidad. Caracterizado por su crujencia y frescura, además del producto congelado que mantiene las mismas propiedades aún después de días.</p>
                     
                     <?php echo image_tag('nosotros1.jpg','class=left'); ?>
                     
-                    <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>    
-                    <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
-                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+                    <p>El pan congelado está principalmente orientado para microempresarios del área de panadería, puesto que de preferencia debe utilizarse indumentaria adecuada, no obstante cualquier particular que tuviese un horno eléctrico donde pudiese descongelar y cocer el pan puede hacerlo.</p>    
+                    <p>La repostería de Miel y Canela, consta de pasteles creados con recetas caceras e internacionales, y entre ellos destacan kuchen de todo tipo (manzana, frambuesa, linz, nueces, frutas mezcladas, etc.), pie de limón, dulces chilenos, calzones rotos y brazo de reina. Todos estos fabricados en las instalaciones de la pastelería y con las implementaciones adecuadas para otorgar la mezcla perfecta de una repostería fina y casera al alcance de la comunidad. </p>
                     
                     <?php echo image_tag('nosotros2.jpg','class=right'); ?>
-                    <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>    
-                    <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+                    <p>Nuestra panadería y pastelería cuenta con todos los permisos necesarios para funcionar como tal. Patente municipal, permiso de salud, y de manipulación de alimentos.</p>    
                     
                     
                     <div class="cleaner">&#160;</div>
-                    
+                    <h2>Pan Amasado congelado</h2>
                     <div class="col">
-                        <h3>Column 1</h3>
                         <div class="number"><?php echo image_tag('no-step_1.gif','alt=1'); ?></div>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                        <p>Se elabora la masa con sus ingredientes cotidianos, pero además se le incorporan mejoradores a la harina para que la duración sea más extensa y no se pierdan las propiedades del pan debido a la pérdida de agua al ser horneado (brillo, crujencia, frescura).</p>
                         <div class="cleaner">&#160;</div>
-                        <a class="button" href="#">¿Cómo llegar?</a>
+                        
                     </div>
                     <div class="col">
-                        <h3>Column 2</h3>
                         <div class="number"><?php echo image_tag('no-step_2.gif','alt=2'); ?></div>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                        <p>Posterior a eso se procede a la formación de los ovillos de pan y sin dejar leudar se lleva a congelar, en este momento el proceso de fermentación que provoca la levadura se detiene. Al descongelar el pan, la levadura comienza a hacer efecto y aumenta el volumen del pan.</p>
                         <div class="cleaner">&#160;</div>
-                        <a class="button" href="#">Objednat</a>
+                        
                     </div>
                     <div class="col col-last">
-                        <h3>Column 3</h3>
                         <div class="number"><?php echo image_tag('no-step_3.gif','alt=3'); ?></div>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                        <p>En caso de horno eléctrico debe introducirse al horno rápidamente y dejar cocer 20 minutos aproximadamente a una temperatura de 180° a 200° C. Luego, está listo para ofrecer o disfrutar de un pan fresco, crujiente y de un delicioso aspecto que más de seguro dejará encantado a más de alguno.</p>
                         <div class="cleaner">&#160;</div>
-                        <a class="button" href="#">Objednat</a>
+                        
                     </div>
+                    <div class="cleaner">&#160;</div>
+                    <div class="col"><?php echo image_tag('productos/proceso-pan1.jpg','class=proceso-pan'); ?></div>
+                    <div class="col"><?php echo image_tag('productos/pan-amasado-congelado.jpg','class=proceso-pan'); ?></div>
+                    <div class="col col-last"><?php echo image_tag('productos/pan-amasado.jpg','class=proceso-pan'); ?></div>
                     <div class="cleaner">&#160;</div>
                     
                 </div>

@@ -10,12 +10,7 @@
 
   <!-- SHORT TEXT THAT DESCRIBE PAGE CONTENT  --> 
   <p class="commonIntroductionText">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla neque ipsum, rhoncus eu euismod sed, ullamcorper a urna. 
-    at tortor nisi. Aliquam sit amet sapien nibh. In vel tortor ac nibh sagittis pellentesque eu a est. 
-    Nam commodo vehicula sapien sit amet aliquam. 
-    <span class="spanBold">Nam eu diam ac dolor volutpat consequat vitae at neque.</span> Ut at tortor nisi. 
-    Aliquam sit amet sapien nibh. Vivamus quis tellus id eros volutpat condimentum sed ac ante. 
-    In vel tortor ac nibh sagittis pellentesque eu a est.
+    A continuación imágenes de nuestros principales productos del área de repostería y panadería, junto a las descripciones básicas de cada uno.
   </p>
 
 </div> <!-- galleryHeaderContainer -->
@@ -34,8 +29,7 @@
         <div class="galleryThumbShadow"></div>
         <div class="galleryThumbTitle">Kuchen de Manzana</div>
         <div class="galleryThumbDesc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-          Nulla neque ipsum.
+          Kuchen alemán de manzana. 
         </div>
       </div>
 
@@ -46,8 +40,7 @@
         <div class="galleryThumbShadow"></div>
         <div class="galleryThumbTitle">Dulces Chilenos</div>
         <div class="galleryThumbDesc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-          Nulla neque ipsum.
+          Masa de alfajor bañada en merengue y relleno con exquisito manjar.
         </div>                
       </div>
 
@@ -58,7 +51,7 @@
         <div class="galleryThumbShadow"></div>
         <div class="galleryThumbTitle">Brazo de Reina</div>
         <div class="galleryThumbDesc">
-          That's not true, of course. I think I'm pretty darn cute in person, heh.
+          Biscocho enrollado con delicioso manjar y espolvoreado con coco rallado.
         </div>                
       </div>    
     </div> <!-- galleryRow -->   
@@ -72,8 +65,7 @@
         <div class="galleryThumbShadow"></div>
         <div class="galleryThumbTitle">Pie de Limon</div>
         <div class="galleryThumbDesc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-          Nulla neque ipsum.
+          Tarta rellena con crema a base de limón y leche condensada, cubierta por merengue finamente distribuido.
         </div>                
       </div>
 
@@ -84,8 +76,7 @@
         <div class="galleryThumbShadow"></div>
         <div class="galleryThumbTitle">Kuchen de Nuez</div>
         <div class="galleryThumbDesc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-          Nulla neque ipsum.
+          Masa cubierta con caramero de nuez.
         </div>                
       </div>
 
@@ -96,8 +87,7 @@
         <div class="galleryThumbShadow"></div>
         <div class="galleryThumbTitle">Pan Heidi</div>
         <div class="galleryThumbDesc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-          Nulla neque ipsum.
+          Pan batido, con surcos característicos en parte superior.
         </div>                
       </div>    
     </div> <!-- galleryRow -->      
@@ -111,8 +101,7 @@
         <div class="galleryThumbShadow"></div>
         <div class="galleryThumbTitle">Kuchen de Frutas</div>
         <div class="galleryThumbDesc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-          Nulla neque ipsum.
+          Tarta cubierta con variedades de frutas. Kiwi, piña y durazno.
         </div>                
       </div>
 
@@ -123,8 +112,7 @@
         <div class="galleryThumbShadow"></div>
         <div class="galleryThumbTitle">Pan Amasado</div>
         <div class="galleryThumbDesc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-          Nulla neque ipsum.
+          Pan elaborado con receta tradicional a la que se le incorporan mejoradores para obtener una masa fresca en el centro y crujiente.
         </div>                
       </div>
 
@@ -135,8 +123,7 @@
         <div class="galleryThumbShadow"></div>
         <div class="galleryThumbTitle">Calzones Rotos</div>
         <div class="galleryThumbDesc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-          Nulla neque ipsum.
+          Masa frita dulce, espolvoreada con azúcar flor.
         </div>                
       </div>    
     </div> <!-- galleryRow -->
@@ -150,8 +137,7 @@
         <div class="galleryThumbShadow"></div>
         <div class="galleryThumbTitle">Pan Holand&eacute;s</div>
         <div class="galleryThumbDesc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-          Nulla neque ipsum.
+          Masa a base de margarina, naranja confitada y harina.
         </div>
       </div>
 
@@ -162,8 +148,7 @@
         <div class="galleryThumbShadow"></div>
         <div class="galleryThumbTitle">Kuchen de Linz</div>
         <div class="galleryThumbDesc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-          Nulla neque ipsum.
+          Deliciosa combinaci&oacute;n de una masa arom&aacute;tica con exquisita mermelada de frutas rojas.
         </div>
       </div>
 
@@ -174,8 +159,7 @@
         <div class="galleryThumbShadow"></div>
         <div class="galleryThumbTitle">Kuchen de Frambuesas</div>
         <div class="galleryThumbDesc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-          Nulla neque ipsum.
+          Riqu&iacute;sima tarta rellena de mermelada de frambuesa.
         </div>
       </div>
       
@@ -186,8 +170,7 @@
         <div class="galleryThumbShadow"></div>
         <div class="galleryThumbTitle">Pizza</div>
         <div class="galleryThumbDesc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-          Nulla neque ipsum.
+          Pizza tradicional, jam&oacute;n, aceitunas, queso, morr&oacute;n.
         </div>
       </div>
       
@@ -198,8 +181,7 @@
         <div class="galleryThumbShadow"></div>
         <div class="galleryThumbTitle">Pie de Limon personal</div>
         <div class="galleryThumbDesc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-          Nulla neque ipsum.
+          Minitartaleta rellena con crema a base de limón y leche condensada, cubierta por merengue finamente distribuido.
         </div>
       </div>
       
@@ -210,8 +192,7 @@
         <div class="galleryThumbShadow"></div>
         <div class="galleryThumbTitle">Pan amasado congelado</div>
         <div class="galleryThumbDesc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-          Nulla neque ipsum.
+          Receta tradicional del pan amasado, con mejoradores para mantener el producto congelado, sin pérdida de propiedades al consumir.
         </div>
       </div>
     </div> <!-- galleryRow -->

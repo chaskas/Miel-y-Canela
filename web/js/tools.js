@@ -10,7 +10,7 @@ function initialize() {
   var marker = new google.maps.Marker({map: map, position: map.getCenter()});
 
   var infowindow = new google.maps.InfoWindow();
-  infowindow.setContent('<p><b>Miel y Canela</b></p><p>Los conquistadores #42, Hualp&eacute;n</p><p>+56 41 <strong>2783885</strong></p>');
+  infowindow.setContent('<p><b>Miel y Canela</b></p><p>Los conquistadores sur #42, Hualp&eacute;n</p><p>+56 41 <strong>2783885</strong></p>');
   google.maps.event.addListener(marker, 'click', function() {
       infowindow.open(map, marker);
   });
