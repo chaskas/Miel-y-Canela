@@ -10,7 +10,7 @@
   </tr>
 </table>
 <center>
-  <p><?php echo link_to('Entrar', 'static/home'); ?></p>
+  <?php echo link_to(image_tag('entrar.png'), 'static/home'); ?>
 </center>
 <br/>
 <table width="800" border="0" align="center" cellspacing="5">

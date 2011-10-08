@@ -25,7 +25,7 @@
         <?php echo $form['message']->renderLabel(); ?>
         <?php echo $form['message']->render(); ?>
         <div class="clear"></div>
-        <input type="submit" class="button" value="" id="form-submit"/>
+        <input type="submit" class="button" id="form-submit"/>
       </div><!-- end: .column-big -->
     </form>
     <div class="clear"></div>

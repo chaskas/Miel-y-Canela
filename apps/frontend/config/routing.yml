@@ -21,6 +21,10 @@ donde-estamos:
   url:  /donde-estamos
   param: { module: static, action: dondeestamos }
 
+sendmail:
+  url: /sendmail
+  param: { module: static, action: sendmail }
+
 # default rules
 homepage:
   url:   /

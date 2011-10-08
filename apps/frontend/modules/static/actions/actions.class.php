@@ -42,10 +42,10 @@ class staticActions extends sfActions
     $phone  = $request->getParameter('phone');
     $pre_message  = $request->getParameter('message');
 
-    $message = $name."\n".$email."\nFono: ".$phone."\n\nDice:\n\n".$pre_message;
+    $message = "Don(a): ".$name."\nCorreo: ".$email."\nFono: ".$phone."\n\nEscribió:\n\n".$pre_message."\n\n\n\nNO RESPONDER A ESTE CORREO\n(notreply@mielycanela.cl)";
 
     $mensaje = Swift_Message::newInstance()
-      ->setFrom($email)
+      ->setFrom(array('notreply@mielycanela.cl' => 'Contacto Miel y Canela'))
       ->setTo(array('contacto@mielycanela.cl')) //CAMBIAR AL CORREO DE DESTINO DEFINITIVO
       ->setBcc(array('admin@webdevel.cl'))
       ->setSubject('Nuevo mensaje desde www.mielycanela.cl')
