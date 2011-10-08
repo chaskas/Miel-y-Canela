@@ -9,7 +9,7 @@
         <p class="left">Los Conquistadores sur #42 - Hualp&eacute;n<br />Fono: +56 41 <strong>2783885</strong></p>
         <div class="cleaner">&#160;</div>
         <br/><br/>
-        <p>Ubicación privilegiada en la principal avenida de Hualpén y Talcahuano. A pasos de Avenida Colón en la comuna de Hualpén, y a aproximadamente 10 mínimos del Mall plaza del Trébol. Local cercano a la locomoción, de fácil acceso y visualización.</p>
+        <p>Ubicaci&oacute;n privilegiada en la principal avenida de Hualp&eacute;n y Talcahuano. A pasos de Avenida Col&oacute;n en la comuna de Hualp&eacute;n, y a aproximadamente 10 minutos del Mall plaza del Tr&eacute;bol. Local cercano a la locomoci&oacute;n, de f&aacute;cil acceso y visualizaci&oacute;n.</p>
         <div class="cleaner">&#160;</div>
       </div>
 

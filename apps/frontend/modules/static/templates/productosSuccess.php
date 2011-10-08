@@ -10,7 +10,7 @@
 
   <!-- SHORT TEXT THAT DESCRIBE PAGE CONTENT  --> 
   <p class="commonIntroductionText">
-    A continuación imágenes de nuestros principales productos del área de repostería y panadería, junto a las descripciones básicas de cada uno.
+    A continuaci&oacute;n im&aacute;genes de nuestros principales productos del &aacute;rea de reposter&iacute;a y panader&iacute;a, junto a las descripciones b&aacute;sicas de cada uno.
   </p>
 
 </div> <!-- galleryHeaderContainer -->
@@ -29,7 +29,7 @@
         <div class="galleryThumbShadow"></div>
         <div class="galleryThumbTitle">Kuchen de Manzana</div>
         <div class="galleryThumbDesc">
-          Kuchen alemán de manzana. 
+          Kuchen alem&aacute;n de manzana. 
         </div>
       </div>
 
@@ -65,7 +65,7 @@
         <div class="galleryThumbShadow"></div>
         <div class="galleryThumbTitle">Pie de Limon</div>
         <div class="galleryThumbDesc">
-          Tarta rellena con crema a base de limón y leche condensada, cubierta por merengue finamente distribuido.
+          Tarta rellena con crema a base de lim&oacute;n y leche condensada, cubierta por merengue finamente distribuido.
         </div>                
       </div>
 
@@ -87,7 +87,7 @@
         <div class="galleryThumbShadow"></div>
         <div class="galleryThumbTitle">Pan Heidi</div>
         <div class="galleryThumbDesc">
-          Pan batido, con surcos característicos en parte superior.
+          Pan batido, con surcos caracter&iacute;sticos en parte superior.
         </div>                
       </div>    
     </div> <!-- galleryRow -->      
@@ -123,7 +123,7 @@
         <div class="galleryThumbShadow"></div>
         <div class="galleryThumbTitle">Calzones Rotos</div>
         <div class="galleryThumbDesc">
-          Masa frita dulce, espolvoreada con azúcar flor.
+          Masa frita dulce, espolvoreada con az&uacute;car flor.
         </div>                
       </div>    
     </div> <!-- galleryRow -->
@@ -181,7 +181,7 @@
         <div class="galleryThumbShadow"></div>
         <div class="galleryThumbTitle">Pie de Limon personal</div>
         <div class="galleryThumbDesc">
-          Minitartaleta rellena con crema a base de limón y leche condensada, cubierta por merengue finamente distribuido.
+          Minitartaleta rellena con crema a base de lim&oacute;n y leche condensada, cubierta por merengue finamente distribuido.
         </div>
       </div>
       
@@ -192,7 +192,7 @@
         <div class="galleryThumbShadow"></div>
         <div class="galleryThumbTitle">Pan amasado congelado</div>
         <div class="galleryThumbDesc">
-          Receta tradicional del pan amasado, con mejoradores para mantener el producto congelado, sin pérdida de propiedades al consumir.
+          Receta tradicional del pan amasado, con mejoradores para mantener el producto congelado, sin p&eacute;rdida de propiedades al consumir.
         </div>
       </div>
     </div> <!-- galleryRow -->

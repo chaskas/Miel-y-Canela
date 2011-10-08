@@ -17,7 +17,7 @@
           <div>
             <h1>Miel y Canela</h1>
             <h3>Panader&iacute;a y Pasteler&iacute;a</h3>
-            <p>Para brindarle la mejor atenci&oacute;n,  atendemos todos los d&iacute;as de Lunes a Domingo de 09:00 a 21:30 horas. Los 365 d&iacute;as del año.</p>
+            <p>Para brindarle un mejor servicio,  atendemos todos los d&iacute;as de Lunes a Domingo de 09:00 a 21:30 horas. Los 365 d&iacute;as del año.</p>
           </div>
         </div>
       </li>
@@ -37,7 +37,7 @@
           <div>
             <h1>Miel y Canela</h1>
             <h3>Panader&iacute;a y Pasteler&iacute;a</h3>
-            <p>Dentro de nuestros productos contamos con pan amasado congelado, adem&aacute;s de hallullas,  marraquetas y pan Heidi  fresco durante todo el d&iacute;a.</p>
+            <p>Contamos con pan amasado congelado, adem&aacute;s de hallullas,  marraquetas y pan Heidi  fresco durante todo el d&iacute;a.</p>
           </div>
         </div>
       </li>
@@ -52,7 +52,7 @@
 
   <div class="block b-menu">
     <h4>Pan Amasado</h4>
-    <p>Nos especializamos en la venta de pan amasado congelado. Nuestra receta permite una extensa duración del producto y asegura un pan fresco y crujiente para deleitar en cualquier momento.</p>
+    <p>Nos especializamos en la venta de pan amasado congelado. Nuestra receta permite una extensa duraci&oacute;n del producto y asegura un pan fresco y crujiente para deleitar en cualquier momento.</p>
   </div><!-- end: #block-menu -->                
 
   <div class="block b-graph">
