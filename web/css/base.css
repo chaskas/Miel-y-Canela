@@ -1,5 +1,6 @@
 body { background-color: #290006; }
 a {text-decoration: none;color: #FFFFFF;}
+img {border: 0px;}
 a:hover {text-decoration: underline}
 .Estilo3 {color: #FFFFFF}
 .Estilo5 {color: #FFFF99; font-family: Verdana, Arial, Helvetica, sans-serif; }
