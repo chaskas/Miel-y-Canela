@@ -6,7 +6,7 @@
                     
                     <?php echo image_tag('nosotros1.jpg','class=left'); ?>
                     
-                    <p>El pan congelado est&aacute; principalmente orientado para microempresarios del &aacute;rea de panader&iacute;a, puesto que de preferencia debe utilizarse indumentaria adecuada, no obstante cualquier particular que tuviese un horno el&eacute;ctrico donde pudiese descongelar y cocer el pan puede hacerlo.</p>    
+                    <p>El pan congelado amasado est&aacute; principalmente orientado para sacar a m&aacute;s de alguno de apuros, ideal para conservar durante incluso meses, para llevar de viaje a alg&uacute;n lugar donde el acceso a una panader&iacute;a sea escaso, o simplemente por la comodidad de tener el producto al alcance de la mano en cualquier momento y a cualquier hora del d&iacute;a.</p>
                     <p>La reposter&iacute;a de Miel y Canela, consta de pasteles creados con recetas caceras e internacionales, y entre ellos destacan kuchen de todo tipo (manzana, frambuesa, linz, nueces, frutas mezcladas, etc.), pie de lim&oacute;n, dulces chilenos, calzones rotos y brazo de reina. Todos estos fabricados en las instalaciones de la pasteler&iacute;a y con las implementaciones adecuadas para otorgar la mezcla perfecta de una reposter&iacute;a fina y casera al alcance de la comunidad. </p>
                     
                     <?php echo image_tag('nosotros2.jpg','class=right'); ?>
@@ -18,7 +18,7 @@
                     <h2>Pan Amasado congelado</h2>
                     <div class="col">
                         <div class="number"><?php echo image_tag('no-step_1.gif','alt=1'); ?></div>
-                        <p>Se elabora la masa con sus ingredientes cotidianos, pero adem&aacute;s se le incorporan mejoradores a la harina para que la duraci&oacute;n sea m&aacute;s extensa y no se pierdan las propiedades del pan debido a la p&eacute;rdida de agua al ser horneado (brillo, crujencia, frescura).</p>
+                        <p>Se elabora la masa con ingredientes seleccionados siguiendo la receta tradicional. Se mezclan y se procede a amasar, incorporando a gusto harina seg&uacute;n el aspecto de la masa durante el procedimiento. Se debe amasar hasta obtener una masa de aspecto suave y lisa que no se pegue al a superficie.</p>
                         <div class="cleaner">&#160;</div>
                         
                     </div>
@@ -30,7 +30,7 @@
                     </div>
                     <div class="col col-last">
                         <div class="number"><?php echo image_tag('no-step_3.gif','alt=3'); ?></div>
-                        <p>En caso de horno el&eacute;ctrico debe introducirse al horno r&aacute;pidamente y dejar cocer 20 minutos aproximadamente a una temperatura de 180° a 200° C. Luego, est&aacute; listo para ofrecer o disfrutar de un pan fresco, crujiente y de un delicioso aspecto que m&aacute;s de seguro dejar&aacute; encantado a m&aacute;s de alguno.</p>
+                        <p>En caso de horno el&eacute;ctrico debe introducirse al horno rápidamente y dejar cocer 20 minutos aproximadamente a una temperatura de 180° a 200° C. Si es horno a gas, debe dejarse descongelar un poco, hasta que se torne algo blando y suba la masa, despu&eacute;s se introduce r&aacute;pidamente al horno a una temperatura de 220° C por 25 minutos. </p>
                         <div class="cleaner">&#160;</div>
                         
                     </div>

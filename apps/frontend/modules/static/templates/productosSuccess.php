@@ -112,7 +112,7 @@
         <div class="galleryThumbShadow"></div>
         <div class="galleryThumbTitle">Pan Amasado</div>
         <div class="galleryThumbDesc">
-          Pan elaborado con receta tradicional a la que se le incorporan mejoradores para obtener una masa fresca en el centro y crujiente.
+          Pan elaborado con ingredientes seleccionados para obtener una masa fresca en el centro, crujiente y el mejor sabor.
         </div>                
       </div>
 
@@ -148,7 +148,7 @@
         <div class="galleryThumbShadow"></div>
         <div class="galleryThumbTitle">Kuchen de Linz</div>
         <div class="galleryThumbDesc">
-          Deliciosa combinaci&oacute;n de una masa arom&aacute;tica con exquisita mermelada de frutas rojas.
+          Deliciosa combinaci&oacute;n de una masa de nuez con exquisita mermelada de frambuesa.
         </div>
       </div>
 
@@ -192,7 +192,7 @@
         <div class="galleryThumbShadow"></div>
         <div class="galleryThumbTitle">Pan amasado congelado</div>
         <div class="galleryThumbDesc">
-          Receta tradicional del pan amasado, con mejoradores para mantener el producto congelado, sin p&eacute;rdida de propiedades al consumir.
+          Receta tradicional que permite disfrutar de un pan fresco crujiente y de un delicioso aspecto.
         </div>
       </div>
     </div> <!-- galleryRow -->

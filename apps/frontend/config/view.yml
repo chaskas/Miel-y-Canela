@@ -6,10 +6,10 @@ default:
 
   metas:
     title:        Miel y Canela
-    #description:  symfony project
-    #keywords:     symfony, project
-    #language:     en
-    #robots:       index, follow
+    description:  Panaderia y Pasteleria
+    keywords:     pan, pasteles, kuchen, panaderia, pasteleria, mermelada, concepcion, bio, amasado, congelado
+    language:     es
+    robots:       index, follow
 
   stylesheets:    
                   - style.css
