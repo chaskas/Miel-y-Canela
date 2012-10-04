@@ -1,10 +1,17 @@
 <?php use_javascript('easySlider1.5.js'); ?>
+
+<?php use_javascript('fancybox/jquery.fancybox-1.3.4.pack.js'); ?>
+<?php use_javascript('fancybox/jquery.easing-1.3.pack.js'); ?>
+<?php use_javascript('fancybox/jquery.mousewheel-3.0.4.pack.js'); ?>
+
+<?php use_stylesheet('fancybox/jquery.fancybox-1.3.4.css'); ?>
 <script type="text/javascript">
   $(document).ready(function(){
     $("#slider").easySlider({
       auto: true,
       continuous: true
     });
+    $("a#hidden_link").fancybox().trigger('click');
   });
 </script>
 <div class="new-ref">
@@ -62,3 +69,4 @@
   <div class="clear"></div>          
 </div>
 
+<a id="hidden_link" href="images/mielycanela2.jpg" style="display: none;"></a>

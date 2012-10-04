@@ -16,7 +16,7 @@ default:
                   - style-ie.css: { condition: IE 6 }
 
   javascripts:    
-                  - jquery-1.2.6.min.js
+                  - http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js
                   - jquery.cluetip.js
                   - jquery.dimensions.pack.js
                   - init.js

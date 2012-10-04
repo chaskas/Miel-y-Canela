@@ -24,7 +24,7 @@
             <li <?php if($sf_context->getActionName()=='home' && $sf_context->getModuleName()=='static') echo "class='active'"; ?>><a href="<?php echo url_for('static/home'); ?>">Home</a></li>
             <li <?php if($sf_context->getActionName()=='nosotros' && $sf_context->getModuleName()=='static') echo "class='active'"; ?>><a href="<?php echo url_for('static/nosotros'); ?>">Sobre nosotros</a></li>
             <li <?php if($sf_context->getActionName()=='productos' && $sf_context->getModuleName()=='static') echo "class='active'"; ?>><a href="<?php echo url_for('static/productos'); ?>">Productos</a></li>
-            <li <?php if($sf_context->getActionName()=='promociones' && $sf_context->getModuleName()=='static') echo "class='active'"; ?>><a href="<?php echo url_for('static/promociones'); ?>">Promociones</a></li>
+<!--            <li <?php //if($sf_context->getActionName()=='promociones' && $sf_context->getModuleName()=='static') echo "class='active'"; ?>><a href="<?php echo url_for('static/promociones'); ?>">Promociones</a></li>-->
             <li class="last<?php if($sf_context->getActionName()=='dondeestamos' && $sf_context->getModuleName()=='static') echo ' active'; ?>"><a href="<?php echo url_for('static/dondeestamos'); ?>">¿D&oacute;nde estamos?</a></li>
           </ul>
         </div>

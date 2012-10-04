@@ -54,7 +54,42 @@
           Biscocho enrollado con delicioso manjar y espolvoreado con coco rallado.
         </div>                
       </div>    
-    </div> <!-- galleryRow -->   
+    </div>
+    
+    <div class="galleryRow">
+      <div class="galleryThumbWrapper">                                                        
+        <a class="galleryThumb" href="#" rel="prettyPhoto[gallery][unusual]" title="Galletas Navideñas">
+          <?php echo image_tag('productos/galletas.jpg'); ?>
+       </a>                            
+        <div class="galleryThumbShadow"></div>
+        <div class="galleryThumbTitle">Galletas Navideñas</div>
+        <div class="galleryThumbDesc">
+          Galletas con entretenidos motivos Navideños.
+        </div>
+      </div>
+
+      <div class="galleryThumbWrapper">
+        <a class="galleryThumb" href="#" rel="prettyPhoto[gallery][unusual]" title="Pan de Pascua">
+          <?php echo image_tag('productos/pandepascua.jpg'); ?>
+        </a>
+        <div class="galleryThumbShadow"></div>
+        <div class="galleryThumbTitle">Pan de Pascua</div>
+        <div class="galleryThumbDesc">
+          Exquisito pan de pascua artesanal elaborado con los m&aacute;s deliciosos frutos secos.
+        </div>                
+      </div>
+
+      <div class="galleryThumbWrapper">
+        <a class="galleryThumb" href="#" rel="prettyPhoto[gallery][unusual]" title="Muffins">
+          <?php echo image_tag('productos/muffins.jpg'); ?>
+        </a>
+        <div class="galleryThumbShadow"></div>
+        <div class="galleryThumbTitle">Muffins</div>
+        <div class="galleryThumbDesc">
+          Deliciosos Quequitos navideños para deleitar a toda su familia.
+        </div>                
+      </div>    
+    </div>
 
     <!-- gallery page 1 row 2 -->
     <div class="galleryRow">
